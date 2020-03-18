@@ -25,11 +25,11 @@
 	<key>NSBluetoothPeripheralUsageDescription</key>
 	<string>Bluetooth</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Location always and in use</string>
+	<string>Používame Vašu pozíciu s cieľom ochrany pred šírením vírusu COVID-19 za účelom informovania o karanténnej povinnosti obyvateľov.</string>
 	<key>NSLocationAlwaysUsageDescription</key>
-	<string>Location always</string>
+	<string>Používame Vašu pozíciu s cieľom ochrany pred šírením vírusu COVID-19 za účelom informovania o karanténnej povinnosti obyvateľov.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Location when in use</string>
+	<string>Používame Vašu pozíciu s cieľom ochrany pred šírením vírusu COVID-19 za účelom informovania o karanténnej povinnosti obyvateľov.</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>Poppins-ThinItalic.otf</string>

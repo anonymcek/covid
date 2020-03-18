@@ -81,7 +81,8 @@ extension AppDelegate {
         let defaults: [String: NSObject] = ["quarantineDuration": NSString(string: "14"),
                                             "desiredPositionAccuracy": NSString(string: "100"),
                                             "quarantineLeftMessage": NSString(string: "Opustili ste zónu domácej karatnény. Pre ochranu Vášho zdravia a zdravia Vašich blízkych, Vás žiadame o striktné dodržiavanie nariadenej karantény."),
-                                            "batchSendingFrequency": NSNumber(value: 60)]
+                                            "batchSendingFrequency": NSNumber(value: 60),
+                                            "apiHost": NSString(string: "https://covid-gateway.azurewebsites.net")]
         
         let settings = RemoteConfigSettings()
         settings.minimumFetchInterval = 0
