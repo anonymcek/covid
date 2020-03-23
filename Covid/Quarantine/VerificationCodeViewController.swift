@@ -5,7 +5,7 @@ class VerificationCodeViewController: UIViewController {
 
     @IBOutlet weak var activationCodeTextField: UITextField!
     
-    var phoneNumber: String? = Defaults.phoneNumber
+    var phoneNumber: String? = Defaults.tempPhoneNumber
 
     private let networkService = CovidService()
     
@@ -15,12 +15,15 @@ class VerificationCodeViewController: UIViewController {
         title = phoneNumber
         
         showLoadingIndicator()
+        //TODO: phone number
+        //TODO: register user
+        Defaults.phoneNumber = phoneNumber
+        
         updateUser()
         
         if #available(iOS 12.0, *) {
             activationCodeTextField.font = UIFont.monospacedSystemFont(ofSize: 40, weight: .medium)
         }
-//        activationCodeTextField.text = "_ _ _ _ _ _"
     }
 }
 
@@ -64,6 +67,7 @@ extension VerificationCodeViewController {
             switch result {
             case .success:
                 DispatchQueue.main.async {
+                    Defaults.phoneNumber = self?.phoneNumber
                     self?.navigationItem.rightBarButtonItem = nil
                     self?.activationCodeTextField.becomeFirstResponder()
                 }
@@ -85,28 +89,40 @@ extension VerificationCodeViewController {
     }
     
     private func didFillNumbers() {
+        //TODO: verify mfa only
+        if presentingViewController != nil {
+            Defaults.phoneNumber = phoneNumber
+            presentingViewController?.dismiss(animated: true, completion: nil)
+            let mainStoryboard: UIStoryboard = UIStoryboard(name: "Main", bundle: nil)
+            let viewController = mainStoryboard.instantiateViewController(withIdentifier: "MainViewController") as UIViewController
+            UIApplication.shared.keyWindow?.rootViewController = viewController
+            return
+        }
+        
         Defaults.mfaToken = activationCodeTextField.text?.replacingOccurrences(of: " ", with: "")
         activationCodeTextField.resignFirstResponder()
         
         networkService.requestQuarantine(quarantineRequestData: QuarantineRequestData()) { [weak self] (result) in
-            switch result {
-            case .success:
-                DispatchQueue.main.async {
-                    LocationTracker.shared.startLocationTracking()
-                    self?.navigationController?.popToRootViewController(animated: true)
-                }
-            case .failure:
-                let alertController = UIAlertController(title: "Chyba", message: "Zadané údaje sú nesprávne. Skúste znova.", preferredStyle: .alert)
-                let cancelAction = UIAlertAction(title: "Zavrieť", style: .cancel) { (_) in
-                    self?.navigationItem.rightBarButtonItem = nil
-                    self?.activationCodeTextField.becomeFirstResponder()
-                }
-                alertController.addAction(cancelAction)
-                DispatchQueue.main.async {
-                    self?.present(alertController, animated: true, completion: nil)
+            DispatchQueue.main.async {
+                switch result {
+                case .success:
+                        LocationTracker.shared.startLocationTracking()
+                        self?.navigationController?.popToRootViewController(animated: true)
+                case .failure:
+                    self?.requestFailed()
                 }
             }
         }
+    }
+    
+    private func requestFailed() {
+        let alertController = UIAlertController(title: "Chyba", message: "Zadané údaje sú nesprávne. Skúste znova.", preferredStyle: .alert)
+        let cancelAction = UIAlertAction(title: "Zavrieť", style: .cancel) { (_) in
+            self.navigationItem.rightBarButtonItem = nil
+            self.activationCodeTextField.becomeFirstResponder()
+        }
+        alertController.addAction(cancelAction)
+        present(alertController, animated: true, completion: nil)
     }
 }
 

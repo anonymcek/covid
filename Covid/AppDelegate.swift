@@ -16,6 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
     var remoteConfig: RemoteConfig?
+    var backgroundTaskID: UIBackgroundTaskIdentifier?
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         FirebaseApp.configure()
@@ -30,12 +31,22 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         }
 
         application.setMinimumBackgroundFetchInterval(UIApplication.backgroundFetchIntervalMinimum)
+        if let profileId = Defaults.profileId {
+            BeaconManager.shared.advertiseDevice(beacon: BeaconId(id: UInt32(profileId)))
+            BeaconManager.shared.startMonitoring()
+        }
         return true
     }
 
     func application(_ application: UIApplication, performFetchWithCompletionHandler completionHandler: @escaping (UIBackgroundFetchResult) -> Void) {
-        if Defaults.quarantineActive {
-            LocationTracker.shared.startLocationTracking()
+        if let profileId = Defaults.profileId {
+            LocationReporter.shared.sendConnections()
+            BeaconManager.shared.advertiseDevice(beacon: BeaconId(id: UInt32(profileId)))
+            BeaconManager.shared.startMonitoring()
+            
+            if Defaults.quarantineActive {
+                LocationTracker.shared.startLocationTracking()
+            }
             completionHandler(.newData)
         }
         completionHandler(.noData)
@@ -66,15 +77,49 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func applicationDidBecomeActive(_ application: UIApplication) {
-        if Defaults.needsFetchRemoteConfig {
-            setupFirebaseConfig()
+        setupFirebaseConfig()
+    }
+    
+    func visibleViewController(_ rootViewController: UIViewController? = nil) -> UIViewController? {
+
+        var rootVC = rootViewController
+        if rootVC == nil {
+            rootVC = UIApplication.shared.keyWindow?.rootViewController
         }
+
+        if rootVC?.presentedViewController == nil {
+            if rootVC?.isKind(of: UINavigationController.self) ?? false {
+                let navigationController = rootVC as! UINavigationController
+                return visibleViewController(navigationController.viewControllers.last!)
+            }
+            
+            if rootVC?.isKind(of: UITabBarController.self) ?? false {
+                let tabBarController = rootVC as! UITabBarController
+                return visibleViewController(tabBarController.selectedViewController!)
+            }
+            
+            return rootVC
+        }
+
+        if let presented = rootVC?.presentedViewController {
+            if presented.isKind(of: UINavigationController.self) {
+                let navigationController = presented as! UINavigationController
+                return navigationController.viewControllers.last
+            }
+
+            if presented.isKind(of: UITabBarController.self) {
+                let tabBarController = presented as! UITabBarController
+                return tabBarController.selectedViewController
+            }
+
+            return visibleViewController(presented)
+        }
+        return nil
     }
 }
 
 extension AppDelegate {
     private func setupFirebaseConfig() {
-        Defaults.needsFetchRemoteConfig = false
         remoteConfig = RemoteConfig.remoteConfig()
         guard let remoteConfig = remoteConfig else { return }
         
@@ -83,7 +128,7 @@ extension AppDelegate {
                                             "quarantineLeftMessage": NSString(string: "Opustili ste zónu domácej karatnény. Pre ochranu Vášho zdravia a zdravia Vašich blízkych, Vás žiadame o striktné dodržiavanie nariadenej karantény."),
                                             "batchSendingFrequency": NSNumber(value: 60),
                                             "apiHost": NSString(string: "https://covid-gateway.azurewebsites.net"),
-                                            "statsUrl": NSString(string: "https://corona-stats-sk.herokuapp.com/world")]
+                                            "statsUrl": NSString(string: "https://corona-stats-sk.herokuapp.com/combined")]
         
         let settings = RemoteConfigSettings()
         settings.minimumFetchInterval = 0

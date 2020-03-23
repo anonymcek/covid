@@ -68,12 +68,26 @@ extension QuarantineViewController {
 
             let components = calendar.dateComponents([.day], from: date2, to: date1)
             if let days = components.day {
-                quarantineUntilLabel.text = String(abs(days))
+                quarantineUntilLabel.text = QuarantineViewController.daysToString(abs(days))
             }
         }
         
         addressLabel.text = "\(Defaults.quarantineAddress ?? "")\n\(Defaults.quarantineCity ?? "")"
 
         updateTracking()
+    }
+    
+    private static func daysToString(_ numberOfDays: Int) -> String {
+        let days: String
+        
+        if numberOfDays == 1 {
+            days = "ďeň"
+        } else if numberOfDays >= 2 && numberOfDays <= 4 {
+            days = "dni"
+        } else {
+            days = "dní"
+        }
+        
+        return "\(numberOfDays) \(days)"
     }
 }
