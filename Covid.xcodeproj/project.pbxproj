@@ -95,7 +95,7 @@
 /* Begin PBXFileReference section */
 		01CD4C6328E539CABA0FB0E5 /* Pods-Covid.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Covid.release.xcconfig"; path = "Target Support Files/Pods-Covid/Pods-Covid.release.xcconfig"; sourceTree = "<group>"; };
 		0F0B4982241EF14F00214AFE /* Covid.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; name = Covid.entitlements; path = Covid/Covid.entitlements; sourceTree = SOURCE_ROOT; };
-		0F1181392416C70500213533 /* Covid-19 SR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Covid-19 SR.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F1181392416C70500213533 /* Covid-19_SR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Covid-19_SR.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F11813C2416C70500213533 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0F1181402416C70500213533 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		0F1181432416C70500213533 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -210,7 +210,7 @@
 		0F11813A2416C70500213533 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0F1181392416C70500213533 /* Covid-19 SR.app */,
+				0F1181392416C70500213533 /* Covid-19_SR.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -430,7 +430,7 @@
 			);
 			name = Covid;
 			productName = Covid;
-			productReference = 0F1181392416C70500213533 /* Covid-19 SR.app */;
+			productReference = 0F1181392416C70500213533 /* Covid-19_SR.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -530,6 +530,8 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
+				"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}/Contents/Resources/DWARF/${TARGET_NAME}",
+				"$(SRCROOT)/$(BUILT_PRODUCTS_DIR)/$(INFOPLIST_PATH)",
 			);
 			name = FabricCrashlytics;
 			outputFileListPaths = (
@@ -538,7 +540,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "if [ \"${CONFIGURATION}\" = \"Release\" ]; then\n    \"${PODS_ROOT}/FirebaseCrashlytics/upload-symbols -gsp ${PROJECT_DIR}/GoogleService-Info.plist -p ios ${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}\"\nfi\n";
+			shellScript = "\"${PODS_ROOT}/FirebaseCrashlytics/run\"\nif [ \"${CONFIGURATION}\" = \"Release\" ]; then\n    #\"${PODS_ROOT}/FirebaseCrashlytics/upload-symbols -gsp ${PROJECT_DIR}/GoogleService-Info.plist -p ios ${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}\"\n    find ${DWARF_DSYM_FOLDER_PATH} -name \"*.dSYM\" | xargs -I \\{\\} $PODS_ROOT/FirebaseCrashlytics/upload-symbols -gsp ${PROJECT_DIR}/GoogleService-Info.plist -p ios \\{\\}\nfi\n";
 		};
 		39E547CCBE512E292A6A0400 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -777,7 +779,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = sk.minv.covid19;
-				PRODUCT_NAME = "Covid-19 SR";
+				PRODUCT_NAME = "Covid-19_SR";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -799,7 +801,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = sk.minv.covid19;
-				PRODUCT_NAME = "Covid-19 SR";
+				PRODUCT_NAME = "Covid-19_SR";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
