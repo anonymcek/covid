@@ -24,7 +24,7 @@ class LocationReporter {
             let approxLatitude = Double(round(10000 * (location?.coordinate.latitude ?? 0)) / 10000)
             let approxLongitude = Double(round(10000 * (location?.coordinate.longitude ?? 0)) / 10000)
             
-            return Connection(seenProfileId: Int(beaconId.id), timestamp: timestamp, duration: "01:00", latitude: approxLatitude, longitude: approxLongitude, accuracy: 100)
+            return Connection(seenProfileId: Int(beaconId.id), timestamp: timestamp, duration: "", latitude: approxLatitude, longitude: approxLongitude, accuracy: 100)
         }
         try? Disk.append(connections, to: "connections.json", in: .applicationSupport)
         sendConnections()

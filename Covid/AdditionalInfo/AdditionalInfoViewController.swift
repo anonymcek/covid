@@ -12,6 +12,7 @@ class AdditionalInfoViewController: UIViewController {
     
     @IBOutlet var protectView: UIView!
     @IBOutlet var symptomsView: UIView!
+    @IBOutlet var howItWorksView: UIView!
     
     override func loadView() {
         super.loadView()
@@ -20,6 +21,7 @@ class AdditionalInfoViewController: UIViewController {
         protectView.layer.masksToBounds = true
         symptomsView.layer.cornerRadius = 20
         symptomsView.layer.masksToBounds = true
-        
+        howItWorksView.layer.cornerRadius = 20
+        howItWorksView.layer.masksToBounds = true
     }
 }

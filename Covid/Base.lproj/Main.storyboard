@@ -24,9 +24,6 @@
         <array key="Poppins-Light.otf">
             <string>Poppins-Light</string>
         </array>
-        <array key="Poppins-Medium.otf">
-            <string>Poppins-Medium</string>
-        </array>
         <array key="Poppins-Regular.otf">
             <string>Poppins-Regular</string>
         </array>
@@ -210,16 +207,14 @@ Cg
                                         <string key="content">Podmienky ochrany súkromia 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="12" name="Helvetica-Bold"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
                                         </attributes>
                                     </fragment>
-                                    <fragment content="týkajúce sa mobilnej aplikácie „COVID-19 SLOVENSKO“ (ďalej len „">
+                                    <fragment content="týkajúce sa mobilnej aplikácie „COVID SLOVENSKO“ (ďalej len „">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -228,7 +223,6 @@ Cg
                                     </fragment>
                                     <fragment content="Aplikácia">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Bold"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -240,7 +234,6 @@ Cg
 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -249,7 +242,6 @@ Cg
                                     </fragment>
                                     <fragment content="Prevádzkovateľom Aplikácie spracúvajúcim Vaše osobné údaje je ">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -258,7 +250,6 @@ Cg
                                     </fragment>
                                     <fragment content="Ministerstvo vnútra SR">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Bold"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -267,7 +258,6 @@ Cg
                                     </fragment>
                                     <fragment content=", so sídlom Pribinova 2, 812 72 Bratislava, IČO: 00 151 653 (ďalej len „my“ alebo „">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -276,7 +266,6 @@ Cg
                                     </fragment>
                                     <fragment content="Prevádzkovateľ">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Bold"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -287,7 +276,6 @@ Cg
                                         <string key="content">“). Kontaktné údaje našej zodpovednej osoby sú: 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -296,7 +284,6 @@ Cg
                                     </fragment>
                                     <fragment content="E-mail: ">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Bold"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -305,7 +292,7 @@ Cg
                                     </fragment>
                                     <fragment content="gdpr@minv.sk">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
+                                            <color key="NSColor" red="0.019607843137254902" green="0.38823529411764707" blue="0.75686274509803919" alpha="1" colorSpace="calibratedRGB"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <url key="NSLink" string="mailto:gdpr@minv.sk"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
@@ -316,7 +303,6 @@ Cg
                                     </fragment>
                                     <fragment content=" ">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -327,7 +313,6 @@ Cg
                                         <string key="content">
 Korešpondenčná adresa: </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Bold"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -338,7 +323,6 @@ Korešpondenčná adresa: </string>
                                         <string key="content">Ministerstvo vnútra Slovenskej republiky, sekcia kontroly a inšpekčnej služby, úrad kontroly, odbor kontroly osobných údajov, Pribinova 2, 812 72  Bratislava
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -347,7 +331,6 @@ Korešpondenčná adresa: </string>
                                     </fragment>
                                     <fragment content="Tel.:">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Bold"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -358,7 +341,6 @@ Korešpondenčná adresa: </string>
                                         <string key="content"> 09610 55 101
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -370,7 +352,6 @@ Korešpondenčná adresa: </string>
 Cg
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Bold"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -379,7 +360,6 @@ Cg
                                     </fragment>
                                     <fragment content="Pri spracúvaní osobných údajov sa riadime primárne všeobecným nariadením EÚ o ochrane osobných údajov (“">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -388,7 +368,6 @@ Cg
                                     </fragment>
                                     <fragment content="GDPR">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Bold"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -397,7 +376,6 @@ Cg
                                     </fragment>
                                     <fragment content="”), ktoré upravuje aj Vaše práva ako dotknutej osoby, tými ustanoveniami zákona č. 18/2018 Z.z. (ďalej len „">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -406,7 +384,6 @@ Cg
                                     </fragment>
                                     <fragment content="Zákon o ochrane osobných údajov">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Bold"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -415,7 +392,6 @@ Cg
                                     </fragment>
                                     <fragment content="“), ktoré sa na nás vzťahujú a zákonom č. 351/2011 Z.z. (ďalej len „">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -424,7 +400,6 @@ Cg
                                     </fragment>
                                     <fragment content="Zákon o elektronických komunikáciách">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Bold"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -432,18 +407,17 @@ Cg
                                         </attributes>
                                     </fragment>
                                     <fragment>
-                                        <string key="content">“). Tieto podmienky ochrany súkromia sa týkajú výlučne spracúvania osobných údajov v rámci Aplikácie. Všeobecné informácie o spracúvaní osobných údajov mimo Aplikácie nájdete na našej webstránke </string>
+                                        <string key="content">“). Tieto podmienky ochrany súkromia sa týkajú výlučne spracúvania osobných údajov v rámci Aplikácie. Všeobecné informácie o spracúvaní osobných údajov mimo Aplikácie nájdete na našej </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
                                         </attributes>
                                     </fragment>
-                                    <fragment content="https://www.minv.sk/?ochrana-osobnych-udajov-gdpr">
+                                    <fragment content="webstránke">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
+                                            <color key="NSColor" red="0.019607843137254902" green="0.38823529411764707" blue="0.75686274509803919" alpha="1" colorSpace="calibratedRGB"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <url key="NSLink" string="https://www.minv.sk/?ochrana-osobnych-udajov-gdpr"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
@@ -456,7 +430,6 @@ Cg
                                         <string key="content">. 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -467,7 +440,6 @@ Cg
                                         <string key="content">Prečo používame Aplikáciu? 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="11" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -475,10 +447,9 @@ Cg
                                         </attributes>
                                     </fragment>
                                     <fragment>
-                                        <string key="content">Potrebujeme efektívne monitorovať pohyb osôb, ktoré v zmysle aktuálnych núdzových opatrení zavedených v súvislosti s epidemiologickou situáciou majú dodržiavať domácu karanténu a zlepšiť logistiku a zásobovanie pre ľudí v karanténe na základe ich miesta karantény a zárověn pomôcť ľahšie trasovať možné infekcie, ktorým boli ľudia vystavení za posledných 14-dní. Aktuálne neexistuje menej invazívnejšie a efektívnejšie riešenie na dosiahnutie týchto cieľov.
-</string>
+                                        <mutableString key="content">Potrebujeme efektívne monitorovať pohyb osôb, ktoré v zmysle aktuálnych núdzových opatrení zavedených v súvislosti s epidemiologickou situáciou majú dodržiavať domácu karanténu a zlepšiť logistiku a zásobovanie pre ľudí v karanténe na základe ich miesta karantény a zárověn pomôcť ľahšie trasovať možné infekcie, ktorým boli ľudia vystavení za posledných 14-dní. Aktuálne neexistuje menej invazívnejšie a efektívnejšie riešenie na dosiahnutie týchto cieľov.
+</mutableString>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -489,7 +460,6 @@ Cg
                                         <string key="content">Na aké účely a na základe čoho spracúvame Vaše osobné údaje? 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="11" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -500,28 +470,15 @@ Cg
                                         <string key="content">Vaše osobné údaje spracúvame v rámci Aplikácie na nasledovné účely: 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
                                         </attributes>
                                     </fragment>
-                                    <fragment content="">
-                                        <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="10" name="LastResort"/>
-                                            <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
-                                                <tabStops/>
-                                            </paragraphStyle>
-                                        </attributes>
-                                    </fragment>
                                     <fragment>
-                                        <string key="content" base64-UTF8="YES">
-CQ
-</string>
+                                        <string key="content">•	</string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Symbol"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -532,28 +489,15 @@ CQ
                                         <string key="content">Ochrana života, zdravia a majetku v súvislosti so šírením vírusu COVID-19; a 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
                                         </attributes>
                                     </fragment>
-                                    <fragment content="">
-                                        <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="10" name="LastResort"/>
-                                            <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
-                                                <tabStops/>
-                                            </paragraphStyle>
-                                        </attributes>
-                                    </fragment>
                                     <fragment>
-                                        <string key="content" base64-UTF8="YES">
-CQ
-</string>
+                                        <string key="content">•	</string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Symbol"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -564,7 +508,6 @@ CQ
                                         <string key="content">Štatistické účely. 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -572,18 +515,17 @@ CQ
                                         </attributes>
                                     </fragment>
                                     <fragment>
-                                        <string key="content">Právnym základom spracúvania osobných údajov na účel ochrany života, zdravia a majetku v súvislosti so šírením vírusu COVID-19 je verejný záujem podľa čl. 6 ods. 1 písm. e) GDPR, pričom sa zároveň spoliehame na Váš súhlas v zmysle čl. 6 ods. 1 písm. a) GDPR (umožnenie sledovania polohy a zasielania push notifikácií cez systémovú voľbu). Štatistické účely prebiehajú v režime článku 89 GDPR na právnom základe pôvodného účelu, t.j. na tom istom právnom základe. Údaje získané v rámci Aplikácie môžu byť v prípade porušenia núdzových opatrení použité aj na ďalšie zlučiteľné účely, ktoré nájdete na našej webstránke </string>
+                                        <mutableString key="content">Právnym základom spracúvania osobných údajov na účel ochrany života, zdravia a majetku v súvislosti so šírením vírusu COVID-19 je verejný záujem podľa čl. 6 ods. 1 písm. e) GDPR, pričom sa zároveň spoliehame na Váš súhlas v zmysle čl. 6 ods. 1 písm. a) GDPR (umožnenie sledovania polohy a zasielania push notifikácií cez systémovú voľbu). Štatistické účely prebiehajú v režime článku 89 GDPR na právnom základe pôvodného účelu, t.j. na tom istom právnom základe. Údaje získané v rámci Aplikácie môžu byť v prípade porušenia núdzových opatrení použité aj na ďalšie zlučiteľné účely, ktoré nájdete na našej </mutableString>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
                                         </attributes>
                                     </fragment>
-                                    <fragment content="https://www.minv.sk/?ochrana-osobnych-udajov-gdpr">
+                                    <fragment content="webstránke">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
+                                            <color key="NSColor" red="0.019607843137254902" green="0.38823529411764707" blue="0.75686274509803919" alpha="1" colorSpace="calibratedRGB"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <url key="NSLink" string="https://www.minv.sk/?ochrana-osobnych-udajov-gdpr"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
@@ -596,7 +538,6 @@ CQ
                                         <string key="content">.
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -607,7 +548,6 @@ CQ
                                         <string key="content">Aký verejný záujem sledujeme? 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="11" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -616,7 +556,6 @@ CQ
                                     </fragment>
                                     <fragment content="Konkrétny verejný záujem, ktorý sledujeme je ">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -625,7 +564,6 @@ CQ
                                     </fragment>
                                     <fragment content="verejný záujem na odstránení rizík spojených so šírením vírusu COVID-19 a odstránením situácií spojených s núdzovým stavom">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -634,11 +572,10 @@ CQ
                                         </attributes>
                                     </fragment>
                                     <fragment>
-                                        <string key="content">. Tento verejný záujem súvisí jednak so všeobecnými úlohami a poslaním Ministerstva vnútra SR ale aj s konkrétnymi opatreniami, ktoré Ministerstvu vnútra SR (resp. ministerke vnútra) vyplývajú z viacerých uznesení Vlády SR v súvislosti s vírusom COVID-19 (najmä uznesenia vlády č. 113/2020 a č. 115/2020).
+                                        <mutableString key="content">. Tento verejný záujem súvisí jednak so všeobecnými úlohami a poslaním Ministerstva vnútra SR ale aj s konkrétnymi opatreniami, ktoré Ministerstvu vnútra SR (resp. ministerke vnútra) vyplývajú z viacerých uznesení Vlády SR v súvislosti s vírusom COVID-19 (najmä uznesenia vlády č. 113/2020 a č. 115/2020).
 Na území Slovenskej republiky vyhlásená mimoriadna situácia počnúc od 12. marca 2020, 6:00 hod a Ministerstvu vnútra SR vyplýva z uznesení vlády povinnosť prijímať opatrenia civilnej ochrany obyvateľstva a vykonávať opatrenia na riešenie krízovej situácie vo svojej pôsobnosti zamerané na zamedzenie ohrozenia života, zdravia, majetku, zmiernenie následkov a prijímať opatrenia, ktoré umožnia zrušiť mimoriadnu situáciu. Úrad verejného zdravotníctva SR vydal dňa 12. marca 2020 opatrenie, ktorým nariadil povinnú izoláciu po dobu 14 dní osobám, ktoré sa vrátali zo zahraničia alebo sú s takými osobami v spoločnej domácnosti. 
-</string>
+</mutableString>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -649,7 +586,6 @@ Na území Slovenskej republiky vyhlásená mimoriadna situácia počnúc od 12.
                                         <string key="content">Sleduje Aplikácia Vašu polohu? 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="11" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -657,11 +593,10 @@ Na území Slovenskej republiky vyhlásená mimoriadna situácia počnúc od 12.
                                         </attributes>
                                     </fragment>
                                     <fragment>
-                                        <string key="content">Áno, Aplikácia sleduje Vašu polohu (ak jej to dovolíte), a to iba pre potreby vyhodnocovania a dodržiavania domácej karantény zlepšenia zásobovania do miest karantény,  zlepšenia zásobovania do miest karantény, ako aj účelov zabezpečujúcim rýchlejšie a ľahšie prekonanie epidémie Covid.
-Zárveň však Aplikácia využíva funkcionalitu Bluetooth iBeacons na určovanie približnej blízkosti k miestam alebo zariadeniam, ktoré budú označené vírusom COVID-19 a to z dôvodov trasovania možných kontaktov z infekciou a predídeniu tak ďalšieho šíreniu nákazy asymptomatickým spôsobom. Táto funkcionalita je zapnutá v každom prípade bez ohľadu na Vašu voľbu týkajúcu sa povolenia GPS lokalizácie. 
-</string>
+                                        <mutableString key="content">Áno, Aplikácia sleduje Vašu polohu (ak jej to dovolíte), a to iba pre potreby vyhodnocovania a dodržiavania domácej karantény zlepšenia zásobovania do miest karantény,  zlepšenia zásobovania do miest karantény, ako aj účelov zabezpečujúcim rýchlejšie a ľahšie prekonanie epidémie Covid.
+Zároveň však Aplikácia využíva funkcionalitu Bluetooth iBeacons na určovanie približnej blízkosti k miestam alebo zariadeniam, ktoré budú označené vírusom COVID-19 a to z dôvodov trasovania možných kontaktov z infekciou a predídeniu tak ďalšieho šíreniu nákazy asymptomatickým spôsobom. Táto funkcionalita je zapnutá v každom prípade bez ohľadu na Vašu voľbu týkajúcu sa povolenia GPS lokalizácie. 
+</mutableString>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -672,7 +607,6 @@ Zárveň však Aplikácia využíva funkcionalitu Bluetooth iBeacons na určovan
                                         <string key="content">Aké osobné údaje spracúvame prostredníctvom Aplikácie? 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="11" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -680,12 +614,11 @@ Zárveň však Aplikácia využíva funkcionalitu Bluetooth iBeacons na určovan
                                         </attributes>
                                     </fragment>
                                     <fragment>
-                                        <string key="content">V prípade, ak sa Vás týka domáca karanténa, Aplikácia od Vás vyžaduje poskytnutie údajov o dátume začiatku karantény, adresu pobytu resp. miesta karantény, telefónne číslo, SMS správou doručený verifikačný kód. Následne, podľa Vášho správania Aplikácia sleduje ďalšie signály, podľa ktorých Vám zobrazuje rôzne notifikácie (napr. vzdialenie sa od miesta karantény, presná poloha zariadenia v čase odoslania verifikačnej SMS, odinštalovanie Aplikácie alebo zobrazenie počtu zostávajúcich dní karantény). Aplikácia zároveň spracúva údaje týkajúce sa Vašej polohy.
+                                        <mutableString key="content">V prípade, ak sa Vás týka domáca karanténa, Aplikácia od Vás vyžaduje poskytnutie údajov o dátume začiatku karantény, adresu pobytu resp. miesta karantény. Aplikácia od Vás vyžiada telefónne číslo, SMS správou doručený verifikačný kód. Toto telefónne číslo slúži na rýchlejšie kontaktovanie zdravotníckych pracovníkov, v prípade, že systém zaznamenal podozrenie na Váš kontakt s nakazenou osobou, ktorej bola diagnostikovaná Covid-19. Následne, podľa Vášho správania Aplikácia sleduje ďalšie signály, podľa ktorých Vám zobrazuje rôzne notifikácie (napr. vzdialenie sa od miesta karantény, presná poloha zariadenia v čase odoslania verifikačnej SMS, odinštalovanie Aplikácie alebo zobrazenie počtu zostávajúcich dní karantény). Aplikácia zároveň spracúva údaje týkajúce sa Vašej polohy. 
 Aplikácia spracúva určité systémové, technické a v niektorých prípadoch štatistické dáta o všetkých jej užívateľoch. Ide napr. o identifikátor zariadenia (ID), IP adresu, typ zariadenia, push token, obsah push notifikácie, blízkosť k iným zariadeniam alebo miestam alebo informáciu, že daný užívateľ nemá/má povinnosť domácej karantény. 
 Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kategórie osobných údajov podľa čl. 9 GDPR. Avšak, nie je možné vylúčiť, že užívatelia v niektorých výnimočných prípadoch sami neuvedú v časti „iný dôvod karantény“ aj údaje o zdraví. Takisto nie je možné vylúčiť, že v budúcnosti sa funkcionalita Aplikácie zmení a budeme spracúvať aj údaje o zdraví. V takom prípade dané údaje považujeme za údaje o zdraví a postupujeme pri ich spracúvaní v súlade s čl. 9 ods. 1 písm. g), h), i) GDPR. 
-</string>
+</mutableString>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -696,7 +629,6 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                         <string key="content">Komu poskytujeme Vaše osobné údaje? 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="11" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -704,9 +636,8 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                         </attributes>
                                     </fragment>
                                     <fragment>
-                                        <string key="content">Chceli by sme Vás ubezpečiť, že akýkoľvek prístup k Vašim osobným údajom prebieha výlučne v nevyhnutnom rozsahu. Funkcionalita Aplikácie však vyžaduje aj použitie niektorých technologických riešení tretích strán. Ide najmä o popredných a reputovaných poskytovateľov serverového úložiska, systému SMS brány a nástrojov na ovládanie push notifikácií v Aplikácii. Z dôvodu bezpečnosti však Ministerstvo vnútra SR neposkytuje údaje o konkrétnych dodávateľoch ale len o kategóriách príjemcov v súlade s čl. 13 ods. 1 písm. e) GDPR (</string>
+                                        <mutableString key="content">Chceli by sme Vás ubezpečiť, že akýkoľvek prístup k Vašim osobným údajom prebieha výlučne v nevyhnutnom rozsahu. Funkcionalita Aplikácie však vyžaduje aj použitie niektorých technologických riešení tretích strán. Ide najmä o popredných a reputovaných poskytovateľov serverového úložiska, systému SMS brány a nástrojov na ovládanie push notifikácií v Aplikácii. Z dôvodu bezpečnosti však Ministerstvo vnútra SR neposkytuje údaje o konkrétnych dodávateľoch ale len o kategóriách príjemcov v súlade s čl. 13 ods. 1 písm. e) GDPR (</mutableString>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -715,7 +646,6 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                     </fragment>
                                     <fragment content="„príjemcovia alebo kategórie príjemcov osobných údajov, ak existujú“).">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Oblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -723,10 +653,9 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                         </attributes>
                                     </fragment>
                                     <fragment>
-                                        <string key="content"> Okrem vyššie uvedených technologických dodávateľov môžu mať k údajom v Aplikácii prístup len oprávnení zamestnanci a pracovníci Ministerstva vnútra SR, ním poverení sprostredkovatelia alebo iné orgány verejnej moci, ak sa to ukáže byť nevyhnutné pre splnenie účelu spracúvania. 
-</string>
+                                        <mutableString key="content"> Okrem vyššie uvedených technologických dodávateľov môžu mať k údajom v Aplikácii prístup len oprávnení zamestnanci a pracovníci Ministerstva vnútra SR, ním poverení sprostredkovatelia alebo iné orgány verejnej moci, ak sa to ukáže byť nevyhnutné pre splnenie účelu spracúvania. 
+</mutableString>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -737,7 +666,6 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                         <string key="content">Do ktorých krajín prenášame Vaše osobné údaje? 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="11" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -745,10 +673,9 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                         </attributes>
                                     </fragment>
                                     <fragment>
-                                        <string key="content">Štandardne neprenášame osobné údaje týkajúce sa Aplikácie mimo územia EÚ. Avšak, niektorí z vyššie uvedených technologických partnerov môžu byť usadení alebo ich servre sa môžu nachádzať v Spojených štátoch amerických, ktoré – ako také – predstavujú tretiu krajinu, ktorá nezaručuje ochranu osobných údajov primeranú ochrane v EÚ. Tieto cezhraničné prenosy sa netýkajú všetkých ale iba čiastkových dát a prebiehajú na základe rozhodnutia Komisie EÚ o primeranosti (ako napr. EU-US Privacy Schield) alebo na základe splnenia iných záruk na ochranu osobných údajov (napr. uzatvorenie tzv. zmluvných doložiek). To znamená, že všetkým údajom ktoré sú spracúvané v rámci Aplikácie je vymožiteľnými nástrojmi zaručená rovnaká miera ochrany ako podľa európskych predpisov na ochranu osobných údajov. 
-</string>
+                                        <mutableString key="content">Štandardne neprenášame osobné údaje týkajúce sa Aplikácie mimo územia EÚ. Avšak, niektorí z vyššie uvedených technologických partnerov môžu byť usadení alebo ich servre sa môžu nachádzať v Spojených štátoch amerických, ktoré – ako také – predstavujú tretiu krajinu, ktorá nezaručuje ochranu osobných údajov primeranú ochrane v EÚ. Tieto cezhraničné prenosy sa netýkajú všetkých ale iba čiastkových dát a prebiehajú na základe rozhodnutia Komisie EÚ o primeranosti (ako napr. EU-US Privacy Schield) alebo na základe splnenia iných záruk na ochranu osobných údajov (napr. uzatvorenie tzv. zmluvných doložiek). To znamená, že všetkým údajom ktoré sú spracúvané v rámci Aplikácie je vymožiteľnými nástrojmi zaručená rovnaká miera ochrany ako podľa európskych predpisov na ochranu osobných údajov. 
+</mutableString>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -759,7 +686,6 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                         <string key="content">Ako dlho uchovávame Vaše osobné údaje? 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="11" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -769,7 +695,6 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                     <fragment>
                                         <string key="content">Objektívne nevieme s určitosťou povedať, do kedy bude potrebné plniť opatrenia v rámci tejto mimoriadnej situácie. Preto je všeobecná doba uchovávania (resp. kritéria na jej určenie) aktuálne stanovená nasledovne: </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -778,7 +703,6 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                     </fragment>
                                     <fragment content="„">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Oblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -787,7 +711,6 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                     </fragment>
                                     <fragment content="až do odstránenia hrozieb a rizík spojených so šírením vírusu COVID-19">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -797,7 +720,6 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                     </fragment>
                                     <fragment content=".“">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Oblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -805,10 +727,9 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                         </attributes>
                                     </fragment>
                                     <fragment>
-                                        <string key="content"> Túto všeobecnú dobu uchovávania priebežne monitorujeme a vyhodnocujeme. Prirodzene plánujeme pristúpiť k likvidácii dát získaných prostredníctvom akonáhle nám to okolnosti týkajúce sa vírusu COVID-19 umožnia. 
-</string>
+                                        <mutableString key="content"> Túto všeobecnú dobu uchovávania priebežne monitorujeme a vyhodnocujeme. Prirodzene plánujeme pristúpiť k likvidácii dát získaných prostredníctvom akonáhle nám to okolnosti týkajúce sa vírusu COVID-19 umožnia. Údaje o Vašej polohe a údaje o kontaktoch s inými telefónmi sú automaticky mazané po uplynutí 21 dní.
+</mutableString>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -819,7 +740,6 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                         <string key="content">Ako o Vás získavame osobné údaje? 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="11" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -827,10 +747,9 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                         </attributes>
                                     </fragment>
                                     <fragment>
-                                        <string key="content">Vaše osobné údaje získavame priamo od Vás resp. z Vášho mobilného zariadenia. Pre funkcionalitu aplikácie nie sú potrebné žiadne prevádzkové a lokalizačné dáta od mobilných operátorov. Poskytnutie týchto údajov je Vašou povinnosťou v rámci mimoriadnej situácie. Neposkytnutie údajov alebo poskytnutie nepravdivých informácií môže mať za následok vyvodenie administratívnej alebo trestnej zodpovednosti. 
-</string>
+                                        <mutableString key="content">Vaše osobné údaje získavame priamo od Vás resp. z Vášho mobilného zariadenia. Pre funkcionalitu aplikácie nie sú potrebné žiadne prevádzkové a lokalizačné dáta od mobilných operátorov. Poskytnutie týchto údajov je Vašou povinnosťou v rámci mimoriadnej situácie. Neposkytnutie údajov alebo poskytnutie nepravdivých informácií môže mať za následok vyvodenie administratívnej alebo trestnej zodpovednosti. 
+</mutableString>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -841,7 +760,6 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                         <string key="content">Aké práva máte ako dotknutá osoba? 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="11" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -850,7 +768,6 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                     </fragment>
                                     <fragment content="„">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="11" name="Helvetica-Bold"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -858,11 +775,10 @@ Aplikácia aktuálne priamo nespracúva údaje o zdraví ani iné osobitné kat
                                         </attributes>
                                     </fragment>
                                     <fragment>
-                                        <string key="content">Máte právo namietať proti spracúvaniu osobných údajov, 
+                                        <mutableString key="content">Máte právo namietať proti spracúvaniu osobných údajov, 
 ktoré vykonávame na základe verejného záujmu vrátane profilovania, 
-a to z dôvodu Vašej konkrétnej situácie. Máte právo kedykoľvek svoj súhlas, čím nie je dotknutá zákonnosť spracúvania založeného na súhlase udelenom pred jeho odvolaním.“</string>
+a to z dôvodu Vašej konkrétnej situácie. Máte právo kedykoľvek svoj súhlas, čím nie je dotknutá zákonnosť spracúvania založeného na súhlase udelenom pred jeho odvolaním.“</mutableString>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="11" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -874,7 +790,6 @@ a to z dôvodu Vašej konkrétnej situácie. Máte právo kedykoľvek svoj sú
 Cg
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -885,17 +800,15 @@ Cg
                                         <string key="content">Vzhľadom na okolnosti spracúvania osobných údajov však máme za preukázané, že nevyhnutné oprávnené dôvody na spracúvanie, prevažujú nad záujmami, právami a slobodami dotknutých osôb. ďalej ako dotknutá osoba máte tieto práva :
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" paragraphSpacingBefore="12" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
                                         </attributes>
                                     </fragment>
-                                    <fragment content="">
+                                    <fragment content="•">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="10" name="LastResort"/>
+                                            <font key="NSFont" size="10" name="Menlo-Regular"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
@@ -906,7 +819,6 @@ Cg
 CQ
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Times-Roman"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -914,20 +826,18 @@ CQ
                                         </attributes>
                                     </fragment>
                                     <fragment>
-                                        <string key="content">Právo požiadať o prístup k osobným údajom podľa článku 15 GDPR, ktoré o Vás spracúvame. Toto právo zahŕňa právo na potvrdenie o tom, či o Vás spracúvame osobné údaje, právo získať prístup k týmto údajom a právo získať kópiu osobných údajov, ktoré o Vás spracúvame, ak je to technicky uskutočniteľné;
-</string>
+                                        <mutableString key="content">Právo požiadať o prístup k osobným údajom podľa článku 15 GDPR, ktoré o Vás spracúvame. Toto právo zahŕňa právo na potvrdenie o tom, či o Vás spracúvame osobné údaje, právo získať prístup k týmto údajom a právo získať kópiu osobných údajov, ktoré o Vás spracúvame, ak je to technicky uskutočniteľné;
+</mutableString>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
                                         </attributes>
                                     </fragment>
-                                    <fragment content="">
+                                    <fragment content="•">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="10" name="LastResort"/>
+                                            <font key="NSFont" size="10" name="Menlo-Regular"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
@@ -938,7 +848,6 @@ CQ
 CQ
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Times-Roman"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -949,17 +858,15 @@ CQ
                                         <string key="content">Právo na opravu a doplnenie osobných údajov podľa článku 16 GDPR, ak o Vás spracúvame nesprávne alebo neúplne osobné údaje;
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
                                         </attributes>
                                     </fragment>
-                                    <fragment content="">
+                                    <fragment content="•">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="10" name="LastResort"/>
+                                            <font key="NSFont" size="10" name="Menlo-Regular"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
@@ -970,7 +877,6 @@ CQ
 CQ
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Times-Roman"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -981,17 +887,15 @@ CQ
                                         <string key="content">Právo na vymazanie Vašich osobných údajov podľa článku 17 GDPR; 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
                                         </attributes>
                                     </fragment>
-                                    <fragment content="">
+                                    <fragment content="•">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="10" name="LastResort"/>
+                                            <font key="NSFont" size="10" name="Menlo-Regular"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
@@ -1002,7 +906,6 @@ CQ
 CQ
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Times-Roman"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1013,17 +916,15 @@ CQ
                                         <string key="content">Právo na obmedzenie spracúvania osobných údajov podľa článku 18 GDPR; 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
                                         </attributes>
                                     </fragment>
-                                    <fragment content="">
+                                    <fragment content="•">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="10" name="LastResort"/>
+                                            <font key="NSFont" size="10" name="Menlo-Regular"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
@@ -1034,7 +935,6 @@ CQ
 CQ
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Times-Roman"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1045,17 +945,15 @@ CQ
                                         <string key="content">Právo na prenosnosť údajov podľa článku 20 GDPR (neaplikuje sa v prípade Aplikácie);
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
                                         </attributes>
                                     </fragment>
-                                    <fragment content="">
+                                    <fragment content="•">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="10" name="LastResort"/>
+                                            <font key="NSFont" size="10" name="Menlo-Regular"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
@@ -1066,7 +964,6 @@ CQ
 CQ
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Times-Roman"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1077,17 +974,15 @@ CQ
                                         <string key="content">Právo namietať podľa čl. 21 GDPR;
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
                                         </attributes>
                                     </fragment>
-                                    <fragment content="">
+                                    <fragment content="•">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
-                                            <font key="NSFont" size="10" name="LastResort"/>
+                                            <font key="NSFont" size="10" name="Menlo-Regular"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
                                             </paragraphStyle>
@@ -1098,7 +993,6 @@ CQ
 CQ
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Times-Roman"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1109,7 +1003,6 @@ CQ
                                         <string key="content">Právo, aby sa na Vás nevzťahovalo automatizované individuálne rozhodnutie podľa čl. 22 GDPR (neaplikuje sa v prípade Aplikácie). 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" firstLineHeadIndent="18" headIndent="36" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1118,7 +1011,6 @@ CQ
                                     </fragment>
                                     <fragment content="Takisto máte ">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1127,7 +1019,6 @@ CQ
                                     </fragment>
                                     <fragment content="právo kedykoľvek podať sťažnosť Úradu">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Bold"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1136,7 +1027,6 @@ CQ
                                     </fragment>
                                     <fragment content=" ">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1145,7 +1035,6 @@ CQ
                                     </fragment>
                                     <fragment content="na ochranu osobných údajov Slovenskej republiky">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Bold"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1156,7 +1045,6 @@ CQ
                                         <string key="content"> alebo obrátiť sa so žalobou na príslušný súd. V každom prípade odporúčame akékoľvek spory, otázky alebo námietky riešiť primárne komunikáciou s nami. 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1165,7 +1053,6 @@ CQ
                                     </fragment>
                                     <fragment content="Dochádza k automatizovanému individuálnemu rozhodovaniu vrátane profilovania?">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="11" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1177,7 +1064,6 @@ CQ
 Cg
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1185,10 +1071,9 @@ Cg
                                         </attributes>
                                     </fragment>
                                     <fragment>
-                                        <string key="content">Nie, aktuálne nevykonávame také spracovateľské operácie, na základe ktorých by dochádzalo k prijímaniu rozhodnutia s právnym účinkom alebo iným podstatným vplyvom na Vašu osobu, ktoré by boli založené výlučne len na plne automatizovanom spracúvaní Vašich osobných údajov v zmysle čl. 22 GDPR. Je však pravdepodobné, že spracúvanie údajov v rámci Aplikácie predstavuje profilovanie v zmysle čl. 4 bod 4 GDPR, na ktoré samotné sa však právo podľa čl. 22 GDPR nevzťahuje (iba právo namietať podľa čl. 21 GDPR). 
-</string>
+                                        <mutableString key="content">Nie, aktuálne nevykonávame také spracovateľské operácie, na základe ktorých by dochádzalo k prijímaniu rozhodnutia s právnym účinkom alebo iným podstatným vplyvom na Vašu osobu, ktoré by boli založené výlučne len na plne automatizovanom spracúvaní Vašich osobných údajov v zmysle čl. 22 GDPR. Je však pravdepodobné, že spracúvanie údajov v rámci Aplikácie predstavuje profilovanie v zmysle čl. 4 bod 4 GDPR, na ktoré samotné sa však právo podľa čl. 22 GDPR nevzťahuje (iba právo namietať podľa čl. 21 GDPR). 
+</mutableString>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1199,7 +1084,6 @@ Cg
                                         <string key="content">Cookies 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="11" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1209,7 +1093,6 @@ Cg
                                     <fragment>
                                         <string key="content">Prostredníctvom Aplikácie ukladáme resp. získavame prístup k informáciám uloženým vo Vašom koncovom zariadení v zmysle § 55 ods. 5 Zákona o elektronických komunikáciách. Dané ustanovenie obsahuje výnimku zo získavania súhlasu s takým spracúvaním dát: </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1218,7 +1101,6 @@ Cg
                                     </fragment>
                                     <fragment content="„Povinnosť získania súhlasu sa nevzťahuje na orgán činný v trestnom konaní a iný orgán štátu.“ ">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Oblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1227,7 +1109,6 @@ Cg
                                     </fragment>
                                     <fragment content="Iným orgánom štátu je podľa § 55 ods. 6 Zákona o elektronických komunikáciách: ">
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1237,7 +1118,6 @@ Cg
                                     <fragment>
                                         <string key="content">„Ozbrojený bezpečnostný zbor, ozbrojený zbor a štátny orgán, ktorý v rozsahu ustanovenom osobitnými predpismi plní úlohy na úseku ochrany ústavného zriadenia, obrany štátu, vnútorného poriadku, bezpečnosti štátu a správy daní.“ </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica-Oblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1248,7 +1128,6 @@ Cg
                                         <string key="content">Na základe konzultácie s regulátormi a poradcami máme za to, že Ministerstvo vnútra SR v tejto výnimočnej situácii spĺňa podmienky na spracúvanie daných dát bez súhlasu užívateľov. 
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1259,7 +1138,6 @@ Cg
                                         <string key="content">Zmena podmienok ochrany súkromia
 </string>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="11" name="Helvetica-BoldOblique"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1267,13 +1145,12 @@ Cg
                                         </attributes>
                                     </fragment>
                                     <fragment>
-                                        <string key="content">Informácie, ktoré sme Vám povinní vzhľadom na naše spracúvanie osobných údajov poskytnúť sa môžu meniť alebo prestať byť aktuálne. Z tohto dôvodu si vyhradzujeme možnosť kedykoľvek tieto podmienky upraviť a zmeniť. V prípade, ak zmeníme tieto podmienky podstatným spôsobom, túto zmenu Vám dáme do pozornosti napr. všeobecným oznámením na našej webstránke alebo osobitným oznámením prostredníctvom Aplikácie.
+                                        <mutableString key="content">Informácie, ktoré sme Vám povinní vzhľadom na naše spracúvanie osobných údajov poskytnúť sa môžu meniť alebo prestať byť aktuálne. Z tohto dôvodu si vyhradzujeme možnosť kedykoľvek tieto podmienky upraviť a zmeniť. V prípade, ak zmeníme tieto podmienky podstatným spôsobom, túto zmenu Vám dáme do pozornosti napr. všeobecným oznámením na našej webstránke alebo osobitným oznámením prostredníctvom Aplikácie.
 
 Ministerstvo vnútra SR
 Bratislava, marec 2020  
-</string>
+</mutableString>
                                         <attributes>
-                                            <color key="NSColor" name="textColor" catalog="System" colorSpace="catalog"/>
                                             <font key="NSFont" size="10" name="Helvetica"/>
                                             <paragraphStyle key="NSParagraphStyle" alignment="justified" lineBreakMode="wordWrapping" baseWritingDirection="leftToRight" paragraphSpacing="8" tailIndent="453.59999999999997" lineHeightMultiple="1.0666666666666667" defaultTabInterval="36" tighteningFactorForTruncation="0.0">
                                                 <tabStops/>
@@ -1322,11 +1199,11 @@ Bratislava, marec 2020
             </objects>
             <point key="canvasLocation" x="4053" y="-1071"/>
         </scene>
-        <!--Info-->
+        <!--Navigation Controller-->
         <scene sceneID="wx9-dr-UMF">
             <objects>
                 <navigationController id="F4f-Qu-2PU" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Info" image="house" catalog="system" id="0Rj-PW-ERM"/>
+                    <tabBarItem key="tabBarItem" title="" image="home" id="0Rj-PW-ERM"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="ltj-KB-Rb6">
                         <rect key="frame" x="0.0" y="44" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -1339,47 +1216,56 @@ Bratislava, marec 2020
             </objects>
             <point key="canvasLocation" x="-1490" y="439"/>
         </scene>
-        <!--ID-->
+        <!--Identity View Controller-->
         <scene sceneID="t7O-Hk-yWF">
             <objects>
-                <viewController id="7Bf-yh-hlf" sceneMemberID="viewController">
+                <viewController id="7Bf-yh-hlf" customClass="IdentityViewController" customModule="Covid_19_SR" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="712-bl-IA0">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Môj identifikátor:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zYs-OQ-iLa">
-                                <rect key="frame" x="65" y="144" width="245" height="42"/>
-                                <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="30"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Môj identifikátor pre potrebu zdravotníkov a hygienikov:" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zYs-OQ-iLa">
+                                <rect key="frame" x="24" y="378" width="327" height="56"/>
+                                <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="20"/>
                                 <color key="textColor" red="0.22352941179999999" green="0.22352941179999999" blue="0.22352941179999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="x5af7" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8gv-XQ-9oA">
-                                <rect key="frame" x="119.66666666666667" y="371" width="135.66666666666663" height="70"/>
-                                <fontDescription key="fontDescription" name="Poppins-Medium" family="Poppins" pointSize="50"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8gv-XQ-9oA">
+                                <rect key="frame" x="187.66666666666666" y="442" width="0.0" height="0.0"/>
+                                <fontDescription key="fontDescription" name="Poppins-Bold" family="Poppins" pointSize="40"/>
                                 <color key="textColor" red="0.22352941179999999" green="0.22352941179999999" blue="0.22352941179999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ID-character" translatesAutoresizingMaskIntoConstraints="NO" id="Fol-9n-CRq">
+                                <rect key="frame" x="134.66666666666666" y="237" width="106" height="117"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="zYs-OQ-iLa" firstAttribute="centerX" secondItem="712-bl-IA0" secondAttribute="centerX" id="Rby-nY-gjj"/>
-                            <constraint firstItem="8gv-XQ-9oA" firstAttribute="centerY" secondItem="712-bl-IA0" secondAttribute="centerY" id="aCP-Oc-NFt"/>
+                            <constraint firstItem="8gv-XQ-9oA" firstAttribute="top" secondItem="zYs-OQ-iLa" secondAttribute="bottom" constant="8" id="BxD-y6-ERX"/>
+                            <constraint firstItem="zYs-OQ-iLa" firstAttribute="top" secondItem="Fol-9n-CRq" secondAttribute="bottom" constant="24" id="H9w-Gj-rFU"/>
+                            <constraint firstAttribute="trailing" secondItem="zYs-OQ-iLa" secondAttribute="trailing" constant="24" id="Vml-xz-9JL"/>
                             <constraint firstItem="8gv-XQ-9oA" firstAttribute="centerX" secondItem="712-bl-IA0" secondAttribute="centerX" id="cPd-DX-6A3"/>
-                            <constraint firstItem="zYs-OQ-iLa" firstAttribute="top" secondItem="Sbh-k1-bWb" secondAttribute="top" constant="100" id="n3A-N1-f3P"/>
+                            <constraint firstItem="zYs-OQ-iLa" firstAttribute="centerY" secondItem="712-bl-IA0" secondAttribute="centerY" id="fq7-T2-6lx"/>
+                            <constraint firstItem="zYs-OQ-iLa" firstAttribute="leading" secondItem="712-bl-IA0" secondAttribute="leading" constant="24" id="h2m-ca-giu"/>
+                            <constraint firstItem="Fol-9n-CRq" firstAttribute="centerX" secondItem="712-bl-IA0" secondAttribute="centerX" id="pAp-v3-tHP"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="Sbh-k1-bWb"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="ID" image="person" catalog="system" id="ylU-hI-deS"/>
+                    <tabBarItem key="tabBarItem" title="" image="ID" id="ylU-hI-deS"/>
+                    <connections>
+                        <outlet property="idLabel" destination="8gv-XQ-9oA" id="RGF-08-ScK"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="bsv-Fz-y7R" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-1490" y="-1068"/>
         </scene>
-        <!--Mapa-->
+        <!--Navigation Controller-->
         <scene sceneID="PDL-xB-7CS">
             <objects>
                 <navigationController id="mbO-ql-sKs" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Mapa" image="map" catalog="system" id="dRZ-7Q-fV7"/>
+                    <tabBarItem key="tabBarItem" title="" image="map-icon" id="dRZ-7Q-fV7"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="D9o-GJ-Wzg">
                         <rect key="frame" x="0.0" y="44" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -1401,13 +1287,13 @@ Bratislava, marec 2020
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <containerView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="MQj-uW-X4C">
-                                <rect key="frame" x="0.0" y="88" width="375" height="641"/>
+                                <rect key="frame" x="0.0" y="332" width="430" height="641"/>
                                 <connections>
                                     <segue destination="H3q-2s-Se9" kind="embed" id="Rlb-16-Klz"/>
                                 </connections>
                             </containerView>
                             <containerView opaque="NO" alpha="0.0" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Lj4-QB-CTM">
-                                <rect key="frame" x="0.0" y="88" width="375" height="641"/>
+                                <rect key="frame" x="0.0" y="332" width="430" height="641"/>
                                 <connections>
                                     <segue destination="rFe-Y4-l35" kind="embed" id="fFN-ub-YXb"/>
                                 </connections>
@@ -1428,7 +1314,7 @@ Bratislava, marec 2020
                     </view>
                     <navigationItem key="navigationItem" id="B0a-bP-kFv">
                         <nil key="title"/>
-                        <segmentedControl key="titleView" opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="bar" selectedSegmentIndex="0" id="y01-TP-X2l">
+                        <segmentedControl key="titleView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="bar" selectedSegmentIndex="0" id="y01-TP-X2l">
                             <rect key="frame" x="119" y="5.6666666666666679" width="137" height="33"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <segments>
@@ -1458,50 +1344,49 @@ Bratislava, marec 2020
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" spacing="24" translatesAutoresizingMaskIntoConstraints="NO" id="X20-N0-960">
-                                <rect key="frame" x="24" y="112" width="327" height="399.66666666666674"/>
+                                <rect key="frame" x="24" y="112" width="327" height="415.66666666666674"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8nA-zQ-qxB">
-                                        <rect key="frame" x="0.0" y="0.0" width="327" height="66.666666666666671"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="327" height="82.666666666666671"/>
                                         <subviews>
-                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="info.circle" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="a50-eh-WPm">
-                                                <rect key="frame" x="16" y="14.333333333333329" width="40" height="38.666666666666671"/>
+                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="info-icon" translatesAutoresizingMaskIntoConstraints="NO" id="a50-eh-WPm">
+                                                <rect key="frame" x="16" y="23.333333333333343" width="36" height="36"/>
                                                 <color key="tintColor" red="0.31372549020000001" green="0.34509803919999998" blue="0.97647058819999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="height" constant="40" id="ukE-Wq-fol"/>
-                                                    <constraint firstAttribute="width" constant="40" id="wIM-iS-dSC"/>
+                                                    <constraint firstAttribute="height" constant="36" id="ukE-Wq-fol"/>
+                                                    <constraint firstAttribute="width" constant="36" id="wIM-iS-dSC"/>
                                                 </constraints>
                                             </imageView>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Dôležité informácie o chorobe" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" minimumFontSize="15" translatesAutoresizingMaskIntoConstraints="NO" id="OW1-X6-NZV">
-                                                <rect key="frame" x="72" y="7.9999999999999964" width="199" height="50.666666666666657"/>
-                                                <fontDescription key="fontDescription" name="Poppins-Light" family="Poppins" pointSize="17"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Dôležité informácie" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" minimumFontSize="15" translatesAutoresizingMaskIntoConstraints="NO" id="OW1-X6-NZV">
+                                                <rect key="frame" x="68" y="15.999999999999996" width="211" height="50.666666666666657"/>
+                                                <fontDescription key="fontDescription" name="Poppins-Light" family="Poppins" pointSize="20"/>
                                                 <color key="textColor" red="0.23529411764705882" green="0.32156862745098036" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9hU-a7-3GS">
-                                                <rect key="frame" x="0.0" y="0.0" width="327" height="66.666666666666671"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="327" height="82.666666666666671"/>
                                                 <connections>
                                                     <segue destination="Tk0-ym-05s" kind="show" id="RHh-tj-UgY"/>
                                                 </connections>
                                             </button>
-                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="chevron.right" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="vb5-lB-C9x">
-                                                <rect key="frame" x="287" y="23.333333333333343" width="24" height="20.333333333333329"/>
+                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arrow" translatesAutoresizingMaskIntoConstraints="NO" id="vb5-lB-C9x">
+                                                <rect key="frame" x="295" y="33.333333333333343" width="16" height="16"/>
                                                 <color key="tintColor" red="0.31372549020000001" green="0.34509803919999998" blue="0.97647058819999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="height" constant="24" id="utt-TD-hAe"/>
-                                                    <constraint firstAttribute="width" constant="24" id="vAE-iK-e9D"/>
+                                                    <constraint firstAttribute="height" constant="16" id="utt-TD-hAe"/>
+                                                    <constraint firstAttribute="width" constant="16" id="vAE-iK-e9D"/>
                                                 </constraints>
                                             </imageView>
                                         </subviews>
                                         <color key="backgroundColor" red="0.92156862745098034" green="0.94117647058823528" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                         <constraints>
-                                            <constraint firstAttribute="bottom" secondItem="OW1-X6-NZV" secondAttribute="bottom" constant="8" id="5Ni-KB-RIG"/>
+                                            <constraint firstAttribute="bottom" secondItem="OW1-X6-NZV" secondAttribute="bottom" constant="16" id="5Ni-KB-RIG"/>
                                             <constraint firstAttribute="trailing" secondItem="9hU-a7-3GS" secondAttribute="trailing" id="AND-BM-cDx"/>
                                             <constraint firstItem="vb5-lB-C9x" firstAttribute="centerY" secondItem="8nA-zQ-qxB" secondAttribute="centerY" id="AvY-EK-48Q"/>
-                                            <constraint firstItem="OW1-X6-NZV" firstAttribute="centerY" secondItem="8nA-zQ-qxB" secondAttribute="centerY" id="Czl-HS-fOF"/>
                                             <constraint firstAttribute="trailing" secondItem="vb5-lB-C9x" secondAttribute="trailing" constant="16" id="ECi-MQ-ZJs"/>
                                             <constraint firstItem="a50-eh-WPm" firstAttribute="centerY" secondItem="8nA-zQ-qxB" secondAttribute="centerY" id="RDb-qV-2Ki"/>
                                             <constraint firstItem="vb5-lB-C9x" firstAttribute="leading" secondItem="OW1-X6-NZV" secondAttribute="trailing" constant="16" id="T3g-fi-9LT"/>
-                                            <constraint firstItem="OW1-X6-NZV" firstAttribute="top" secondItem="8nA-zQ-qxB" secondAttribute="top" constant="8" id="XbK-fC-CQd"/>
+                                            <constraint firstItem="OW1-X6-NZV" firstAttribute="top" secondItem="8nA-zQ-qxB" secondAttribute="top" constant="16" id="XbK-fC-CQd"/>
                                             <constraint firstItem="9hU-a7-3GS" firstAttribute="top" secondItem="8nA-zQ-qxB" secondAttribute="top" id="deS-rk-5Se"/>
                                             <constraint firstItem="a50-eh-WPm" firstAttribute="leading" secondItem="8nA-zQ-qxB" secondAttribute="leading" constant="16" id="io9-6A-0Rn"/>
                                             <constraint firstItem="OW1-X6-NZV" firstAttribute="leading" secondItem="a50-eh-WPm" secondAttribute="trailing" constant="16" id="jUP-ms-eVR"/>
@@ -1510,7 +1395,7 @@ Bratislava, marec 2020
                                         </constraints>
                                     </view>
                                     <containerView opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Drr-EJ-rfC">
-                                        <rect key="frame" x="0.0" y="90.666666666666657" width="327" height="188.99999999999997"/>
+                                        <rect key="frame" x="0.0" y="106.66666666666666" width="327" height="188.99999999999997"/>
                                         <constraints>
                                             <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="189" id="c34-ES-cRM"/>
                                         </constraints>
@@ -1519,7 +1404,7 @@ Bratislava, marec 2020
                                         </connections>
                                     </containerView>
                                     <containerView opaque="NO" contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="aGf-gp-ehB">
-                                        <rect key="frame" x="0.0" y="303.66666666666669" width="327" height="96"/>
+                                        <rect key="frame" x="0.0" y="319.66666666666669" width="327" height="96"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="96" id="xM2-ZP-Pgt"/>
                                         </constraints>
@@ -1801,24 +1686,24 @@ nie je COVID-19.</string>
             <objects>
                 <viewController hidesBottomBarWhenPushed="YES" id="g0Z-rl-3mo" customClass="CountryCodeViewController" customModule="Covid_19_SR" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="D1p-t3-Va7">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Prosím zadajte vaše telefónne číslo" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NfE-tc-XI3">
-                                <rect key="frame" x="16" y="72" width="343" height="21"/>
+                                <rect key="frame" x="16" y="104" width="343" height="21"/>
                                 <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="15"/>
                                 <color key="textColor" red="0.22352941176470587" green="0.22352941176470587" blue="0.22352941176470587" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="L7L-hd-bKY">
-                                <rect key="frame" x="0.0" y="101" width="375" height="0.6666666666666714"/>
+                                <rect key="frame" x="0.0" y="133" width="375" height="0.66666666666665719"/>
                                 <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="0.5" id="Hg9-Z5-F3b"/>
                                 </constraints>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="srM-E7-BiE">
-                                <rect key="frame" x="0.0" y="101.66666666666667" width="375" height="44.000000000000014"/>
+                                <rect key="frame" x="0.0" y="133.66666666666666" width="375" height="44"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="SM0-re-rVv"/>
                                 </constraints>
@@ -1832,14 +1717,14 @@ nie je COVID-19.</string>
                                 </connections>
                             </button>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="1nK-Me-UkN">
-                                <rect key="frame" x="16" y="145.66666666666666" width="359" height="0.33333333333334281"/>
+                                <rect key="frame" x="16" y="177.66666666666666" width="359" height="0.33333333333334281"/>
                                 <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="0.5" id="fAI-PA-YrB"/>
                                 </constraints>
                             </view>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="+421" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OER-7S-eH6">
-                                <rect key="frame" x="15.999999999999996" y="146" width="46.666666666666657" height="44"/>
+                                <rect key="frame" x="15.999999999999996" y="178" width="46.666666666666657" height="44"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="0SO-Zp-d7M"/>
                                 </constraints>
@@ -1848,31 +1733,31 @@ nie je COVID-19.</string>
                                 <nil key="highlightedColor"/>
                             </label>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="OeW-Bg-IRH">
-                                <rect key="frame" x="78.666666666666671" y="146" width="0.6666666666666714" height="44.666666666666657"/>
+                                <rect key="frame" x="78.666666666666671" y="178" width="0.6666666666666714" height="44.666666666666657"/>
                                 <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="0.5" id="4k4-6O-gDW"/>
                                 </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="P3P-q4-fCl">
-                                <rect key="frame" x="0.0" y="190" width="375" height="0.66666666666665719"/>
+                                <rect key="frame" x="0.0" y="222" width="375" height="0.66666666666665719"/>
                                 <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="0.5" id="9d6-uU-c2y"/>
                                 </constraints>
                             </view>
                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="000 000 000" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="ksH-i2-uOu">
-                                <rect key="frame" x="95.333333333333343" y="146" width="263.66666666666663" height="44"/>
+                                <rect key="frame" x="95.333333333333343" y="178" width="263.66666666666663" height="44"/>
                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" name="Inter_Light" family="Inter" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocorrectionType="no" spellCheckingType="no" keyboardType="numberPad" smartDashesType="no" smartInsertDeleteType="no" smartQuotesType="no" textContentType="tel"/>
                             </textField>
                             <pickerView hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="G4h-qm-X3u">
-                                <rect key="frame" x="0.0" y="508" width="375" height="216"/>
+                                <rect key="frame" x="0.0" y="562" width="375" height="216"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             </pickerView>
                             <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JrM-mx-VPD">
-                                <rect key="frame" x="24" y="230.66666666666663" width="327" height="119"/>
+                                <rect key="frame" x="24" y="262.66666666666669" width="327" height="119"/>
                                 <string key="text">Pre zvýšenie Vašej ochrany prosím zadajte osobné telefónne číslo. 
 Vďaka nemu Vás môžu zdravotníci osloviť, ak zistia, že ste mohli byť v kontakte s infikovanou osobou.</string>
                                 <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="17"/>
@@ -1934,26 +1819,26 @@ Vďaka nemu Vás môžu zdravotníci osloviť, ak zistia, že ste mohli byť v k
             <objects>
                 <viewController hidesBottomBarWhenPushed="YES" id="FXd-Oq-pKb" customClass="VerificationCodeViewController" customModule="Covid_19_SR" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="fwW-KG-Gx2">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="758"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Na vaše telefónne číslo sme poslali SMS s aktivačným kódom." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lgM-re-VLw">
-                                <rect key="frame" x="16" y="72" width="343" height="42"/>
+                                <rect key="frame" x="16" y="104" width="343" height="42"/>
                                 <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="15"/>
                                 <color key="textColor" red="0.22352941176470587" green="0.22352941176470587" blue="0.22352941176470587" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Zadajte prosím 6 miestny aktivačný kód:" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rsQ-ZR-NIX">
-                                <rect key="frame" x="16" y="130" width="343" height="21"/>
+                                <rect key="frame" x="16" y="162" width="343" height="21"/>
                                 <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="15"/>
                                 <color key="textColor" red="0.22352941176470587" green="0.22352941176470587" blue="0.22352941176470587" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" placeholder="_ _ _  _ _ _" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="v7B-JV-gDl">
-                                <rect key="frame" x="42.666666666666657" y="167" width="290" height="48"/>
+                                <rect key="frame" x="42.666666666666657" y="199" width="290" height="48"/>
                                 <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="290" id="Eh8-Ia-mfg"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="290" id="Eh8-Ia-mfg"/>
                                 </constraints>
                                 <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
@@ -2139,7 +2024,6 @@ Vďaka nemu Vás môžu zdravotníci osloviť, ak zistia, že ste mohli byť v k
                                 </userDefinedRuntimeAttributes>
                                 <connections>
                                     <action selector="didTapConfirmButton:" destination="mMk-vV-3N3" eventType="touchUpInside" id="ahA-8H-VZ1"/>
-                                    <segue destination="g0Z-rl-3mo" kind="show" id="SSE-1U-OmU"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -2175,6 +2059,7 @@ Vďaka nemu Vás môžu zdravotníci osloviť, ak zistia, že ste mohli byť v k
                     <connections>
                         <outlet property="cityLabel" destination="4hx-9j-Qrm" id="9St-rz-kHl"/>
                         <outlet property="streetLabel" destination="tAV-tl-zU0" id="5V1-xg-4ff"/>
+                        <segue destination="g0Z-rl-3mo" kind="show" identifier="quarantineVerifyNumber" id="03C-rP-IWv"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="M2z-Xr-zcj" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -2434,6 +2319,64 @@ Vďaka nemu Vás môžu zdravotníci osloviť, ak zistia, že ste mohli byť v k
                 <placeholder placeholderIdentifier="IBFirstResponder" id="xgV-Cw-sVb" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="2198" y="-293"/>
+        </scene>
+        <!--Ako funguje aplikácia-->
+        <scene sceneID="nEF-Qi-h7Z">
+            <objects>
+                <viewController id="Oql-Ag-hxX" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="4sa-9z-vuE">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="hgO-J6-TO3">
+                                <rect key="frame" x="16" y="88" width="343" height="641"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                                <mutableString key="text">Aplikácia Covid-19 bola vytvorená slovenskými IT dobrovoľníkmi v rekordne krátkom čase, aby pomohli s bojom proti šíreniu pandémie. Bola odovzdaná všetkým štátom zdarma vrátane Slovenska, aby pomohla zdravotníckym organizáciam prekonať nákazu Covid-19 rýchlejšie. Je vyvinutá tak, aby aj v budúcnosti, pri vzniku akejkoľvek pandémie, mohla byť okamžite nasadená a spomaliť šírenie nákazy. Aplikácia bude vylepšovaná každým dňom a jej tvorcovia budú náklady s jej ďalším vývojom hradiť sami. Jej kód a know-how má slúžiť všetkým ľudom sveta a nesmie byť majetkom žiadnej organizácie.
+
+Jednou z najzákernejších prejavov Covid-19 je jej inkubačná doba, kedy pacient chorobu šíri až 14-dní bez jej viditeľných symptómov. Tým sa vírus šíri rýchlejšie ako obyčajná chrípka a ťažké stavy tak prehltia zdravotnícky systém, ktorý v žiadnej krajine nebol pripravený na takýto nárast nákazy. Cieľom aplikácie je výrazne spomaliť nástup a rýchlejšie otestovať potenciálne nakazených ľudí a tým predísť šíreniu choroby bez ich vedomia. Tým ochránime infikované osoby, ich blízkych a celý zdravotnícky systém, ktorému zostane kapacita pred exponenciálnym nárastom prípadov. 
+
+Aplikácia funguje na nasledovnom princípe.
+
+Po inštalácii aplikácie je potrebné povoliť senzory Bluetooth, GPS a notifikácii, ktoré informujú pacienta. Bluetooth je technológia na rozoznanie blízkosti kontaktu od 1-20 metrov a je možné prostredníctvom nej analyzovať presnú vzdialenosť iných zariadení v jej okolí. Táto technológia na rozdiel od GPS výborne funguje v bytoch, budovách, obchodných domoch, lietadlách, letiskách, autobusoch, električkách a iných uzavretých priestoroch, dokonca až na úroveň konkrétnej miestnosti. 
+
+V prípade, že telefón rozozná iné Bluetooth zariadenie v jeho blízkosti a táto doba prekročí určitú dĺžku, zapíše si rozptýlenú GPS pozíciu a anonymný údaj oboch zariadení na server. Rozptýlená GPS pozícia je dôležitá pre hygienikov na analýzu šírenia ochorenia. Bluetooth informácia iného zariadenia je potrebná na spätné identifikovanie zariadenia a zasielanie notifikácii takémuto zariadeniu, ktorého majiteľ mohol byť vstavený ochoreniu.
+
+Akonáhle akýkoľvek človek zistí, že bol infikovaný vírusom Covid-19 a mal nainštalovanú aplikáciu, zobrazí hygienikovi svoje unikátne kódované číslo. Toto číslo zadá hygienik do systému a všetkým zariadeniam, ktorých majitelia boli v kontakte s takto infikovanou osobou bude zaslaná notifikácia, alebo SMS. Správa bude obsahovať, že bol človek potenciálne vystavený nákaze. Takýmto spôsobom dokážu zdravotní pracovníci trasovať možné prenosy za posledných 14-dní aj pri kontaktoch, ktoré človek nedokáže identifikovať. V budovách, pri prepážke v obchode, vo verejnej doprave a podobne. Tým budú ľudia cielenejšie testovaní, a len Tí, ktorí boli vo veľmi tesnej blízkosti infikovanej osoby po určitú dobu. 
+
+V dnešnej dobe fungujú zdravotníci pýtaním sa, s kým sa človek stretol, a na základe toho osobne kontaktujú ľudí, ktorí mohli byť vystavení ochoreniu. Nedokážu ale odhaliť ľudí, ktorí boli v kontakte v obchode, alebo verejnej doprave, či vo výťahu. Táto aplikácia tak dokáže rýchlejšie nájsť takéto osoby, otestovať ich, výrazne znížiť manuálnu prácu zdravotníkov a hygienikov a tým rýchlejšie predísť šíreniu nákazy na ostatných členov rodiny, kolegov, či náhodne okoloidúcich. 
+
+Neoddeliteľnou súčasťou prekonania nákazy Covid-19 je aj izolácia chorých od ostatnej populácie. Na tento účel funguje karanténa. V prípade, že človek prišiel zo zahraničia, alebo bol potenciálne vystavený infekcii, je vyhláškou prikázané zostať v karanténe po celú dobu inkubačnej doby. Pri tejto chorobe 14-dní. Mobilný operátori majú informácie o ľuďoch, ktorí prišli zo zahraničia a takýmto ľuďom by mala prísť SMS, aby zostali v karanténe. Následne človek v aplikácii oznámi, že mu bola nariadená karanténa a označí si miesto, v ktorom sa bude zdržiavať nasledujúcich 14-dní. Zároveň oznámi dátum, od ktorého mu bola karanténa nariadená. Po tomto úkone ho aplikácia bude varovať pri každom porušení karantény. Akonáhle je človek mimo karantény dlhšie ako určitý čas, aplikácia ho upozorní, aby sa vrátil do karantény. Táto funkcionalita sa snaží predísť porušovaniu karantény od ľudí, ktorým bola nariadená.
+
+Aplikácia zároveň zobrazuje mapu a najnovšie informácie o nákazách v jednotlivých okresoch na Slovensku. Jej účelom nieje identifikovať chorých, ani nijako týmito informáciami nedisponuje. Mapa zobrazuje len štatistický počet zaznamenaných ľudí s ochorením na Covid-19 v danom okrese. 
+
+Zároveň aplikácia disponuje štatistickými informáciami o počte nakazených, vyliečených a počte úmrtí na území Slovenskej republiky. Obsahuje aj dôležité informácie ako sa chrániť, ako rozpoznať symptómy a zobrazuje rýchlu infolinku.
+
+Aplikáciu budeme neustále zlepšovať a prinášať ďalšie funkcionality, ktoré pomôžu rýchlejšie zvládnuť nákazu Covid-19. Všetky dáta sú automaticky mazané po uplynutí 21-dní. Táto doba je nevyhnutná na odhalenie možných ohnísk nákaz, ktoré nebolo možné odhaliť konvenčným spôsobom.
+
+Nikdy nebolo dôležitejšie neochorieť, aby sme zachránili druhých, tak ako dnes. Tým, že zostaneme zdraví a nebudeme vírus šíriť, budú mať naši blízky väčšiu šancu na záchranu, pretože zdravotníctvo im bude schopné poskytnúť pomoc, ktorú potrebujú. Ak ochorieme, svojím šírením zaťažujeme zdravotný systém. Zároveň doktori a zdravotný personál bude preťažení a tým náchylnejší na ochorenie. V prípade, že ochorejú nebudú môcť pomáhať aj v úplne odlišných prípadoch, ktorý sa tejto nákazy netýka. Tí, ktorí nákazu sami nezvládnu, nebudú mať šancu na záchranu. Ak budú chorí doktori, nikto z nás nebude môcť dostať akúkoľvek pomoc, či je to obyčajný úraz, operácia, alebo iný vážnejší stav. 
+
+Veľa z nás nákazu zvládne svojou imunitou. Sú ale takí, ktorí majú iné vážne ochorenia, či mladí, či starí a budú potrebovať pomoc zdravotníctva. 
+
+Preto je nesmierne dôležité prejaviť ľudskosť mladých voči starým, zdravých voči chorým a poraziť Covid-19, spoločne.</mutableString>
+                                <color key="textColor" red="0.22352941179999999" green="0.22352941179999999" blue="0.22352941179999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="17"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <constraints>
+                            <constraint firstItem="hgO-J6-TO3" firstAttribute="leading" secondItem="Q8l-cq-jpg" secondAttribute="leading" constant="16" id="Bmj-MG-gfo"/>
+                            <constraint firstItem="hgO-J6-TO3" firstAttribute="top" secondItem="Q8l-cq-jpg" secondAttribute="top" id="I1g-dH-hET"/>
+                            <constraint firstItem="Q8l-cq-jpg" firstAttribute="trailing" secondItem="hgO-J6-TO3" secondAttribute="trailing" constant="16" id="jxO-u5-EZr"/>
+                            <constraint firstItem="Q8l-cq-jpg" firstAttribute="bottom" secondItem="hgO-J6-TO3" secondAttribute="bottom" id="vb5-0I-d2h"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="Q8l-cq-jpg"/>
+                    </view>
+                    <navigationItem key="navigationItem" title="Ako funguje aplikácia" id="WWn-0h-3qV"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="GSC-vT-HeC" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3265" y="41"/>
         </scene>
         <!--Search Map View Controller-->
         <scene sceneID="46Y-TH-EWu">
@@ -2822,25 +2765,25 @@ Vďaka nemu Vás môžu zdravotníci osloviť, ak zistia, že ste mohli byť v k
             <objects>
                 <tableViewController id="rFe-Y4-l35" customClass="SpreadListTableViewController" customModule="Covid_19_SR" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" allowsSelection="NO" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" id="H0G-vJ-vGL">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="641"/>
+                        <rect key="frame" x="0.0" y="0.0" width="430" height="641"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="RegionCell" textLabel="aGH-ve-69U" detailTextLabel="n6v-Ta-yMa" style="IBUITableViewCellStyleValue1" id="RUU-X6-TP6">
-                                <rect key="frame" x="0.0" y="28" width="375" height="50.666667938232422"/>
+                                <rect key="frame" x="0.0" y="28" width="430" height="50.666667938232422"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="RUU-X6-TP6" id="QqD-ND-D2R">
-                                    <rect key="frame" x="0.0" y="0.0" width="375" height="50.666667938232422"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="430" height="50.666667938232422"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="Bratislava" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="aGH-ve-69U">
-                                            <rect key="frame" x="16" y="14" width="84.333333333333329" height="24"/>
+                                            <rect key="frame" x="20" y="14" width="84.333333333333329" height="24"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="17"/>
                                             <color key="textColor" red="0.22352941179999999" green="0.22352941179999999" blue="0.22352941179999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                             <nil key="highlightedColor"/>
                                         </label>
                                         <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" insetsLayoutMarginsFromSafeArea="NO" text="63" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="n6v-Ta-yMa">
-                                            <rect key="frame" x="338" y="14" width="21" height="24"/>
+                                            <rect key="frame" x="389" y="14" width="21" height="24"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="17"/>
                                             <color key="textColor" red="0.22352941179999999" green="0.22352941179999999" blue="0.22352941179999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -2870,24 +2813,31 @@ Vďaka nemu Vás môžu zdravotníci osloviť, ak zistia, že ste mohli byť v k
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="nUB-Ue-JIL">
-                                <rect key="frame" x="24" y="112" width="327" height="87"/>
+                                <rect key="frame" x="24" y="112" width="327" height="61"/>
                                 <subviews>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="howtoprotect" translatesAutoresizingMaskIntoConstraints="NO" id="kU7-Yx-wP8">
-                                        <rect key="frame" x="16" y="16" width="55" height="55"/>
+                                        <rect key="frame" x="8" y="8" width="45" height="45"/>
                                         <constraints>
-                                            <constraint firstAttribute="width" constant="55" id="LBr-JQ-a8u"/>
-                                            <constraint firstAttribute="height" constant="55" id="Y05-V5-eDe"/>
+                                            <constraint firstAttribute="width" constant="45" id="LBr-JQ-a8u"/>
+                                            <constraint firstAttribute="height" constant="45" id="Y05-V5-eDe"/>
                                         </constraints>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Ako sa chrániť" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="15" translatesAutoresizingMaskIntoConstraints="NO" id="a7c-np-Aar">
-                                        <rect key="frame" x="87" y="29.666666666666657" width="224" height="28"/>
+                                        <rect key="frame" x="69" y="16.666666666666657" width="242" height="28"/>
                                         <fontDescription key="fontDescription" name="Poppins-Light" family="Poppins" pointSize="20"/>
                                         <color key="textColor" red="0.23529411759999999" green="0.32156862749999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pFT-Su-BVj">
-                                        <rect key="frame" x="0.0" y="0.0" width="287" height="100"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arrow" translatesAutoresizingMaskIntoConstraints="NO" id="Nt3-eG-xKF">
+                                        <rect key="frame" x="295" y="22.666666666666657" width="16" height="16"/>
+                                        <color key="tintColor" red="0.31372549020000001" green="0.34509803919999998" blue="0.97647058819999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="16" id="Ezt-BC-9rE"/>
+                                            <constraint firstAttribute="height" constant="16" id="knM-do-1gQ"/>
+                                        </constraints>
+                                    </imageView>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pFT-Su-BVj">
+                                        <rect key="frame" x="0.0" y="0.0" width="327" height="61"/>
                                         <connections>
                                             <segue destination="CnE-g9-Ixp" kind="show" id="dWM-F1-Ggy"/>
                                         </connections>
@@ -2895,32 +2845,46 @@ Vďaka nemu Vás môžu zdravotníci osloviť, ak zistia, že ste mohli byť v k
                                 </subviews>
                                 <color key="backgroundColor" red="0.92156862750000001" green="0.94117647059999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <constraints>
+                                    <constraint firstAttribute="bottom" secondItem="pFT-Su-BVj" secondAttribute="bottom" id="3Qs-xq-efP"/>
                                     <constraint firstAttribute="trailing" secondItem="a7c-np-Aar" secondAttribute="trailing" constant="16" id="3sP-1f-Uba"/>
+                                    <constraint firstItem="Nt3-eG-xKF" firstAttribute="centerY" secondItem="nUB-Ue-JIL" secondAttribute="centerY" id="5VW-k5-4zo"/>
+                                    <constraint firstItem="pFT-Su-BVj" firstAttribute="top" secondItem="nUB-Ue-JIL" secondAttribute="top" id="Drr-dn-1nT"/>
                                     <constraint firstItem="a7c-np-Aar" firstAttribute="centerY" secondItem="nUB-Ue-JIL" secondAttribute="centerY" id="FBY-xg-4fi"/>
-                                    <constraint firstItem="kU7-Yx-wP8" firstAttribute="leading" secondItem="nUB-Ue-JIL" secondAttribute="leading" constant="16" id="FHJ-Kh-cO0"/>
+                                    <constraint firstItem="kU7-Yx-wP8" firstAttribute="leading" secondItem="nUB-Ue-JIL" secondAttribute="leading" constant="8" id="FHJ-Kh-cO0"/>
+                                    <constraint firstAttribute="trailing" secondItem="Nt3-eG-xKF" secondAttribute="trailing" constant="16" id="Jjg-dp-BPg"/>
+                                    <constraint firstItem="pFT-Su-BVj" firstAttribute="leading" secondItem="nUB-Ue-JIL" secondAttribute="leading" id="JqD-Gq-9yM"/>
                                     <constraint firstItem="a7c-np-Aar" firstAttribute="leading" secondItem="kU7-Yx-wP8" secondAttribute="trailing" constant="16" id="L8C-G8-gfm"/>
-                                    <constraint firstItem="kU7-Yx-wP8" firstAttribute="top" secondItem="nUB-Ue-JIL" secondAttribute="top" constant="16" id="UGq-Cg-lbH"/>
-                                    <constraint firstAttribute="bottom" secondItem="kU7-Yx-wP8" secondAttribute="bottom" constant="16" id="VR7-yN-tzv"/>
+                                    <constraint firstAttribute="trailing" secondItem="pFT-Su-BVj" secondAttribute="trailing" id="Nzv-OU-hPR"/>
+                                    <constraint firstItem="kU7-Yx-wP8" firstAttribute="top" secondItem="nUB-Ue-JIL" secondAttribute="top" constant="8" id="UGq-Cg-lbH"/>
+                                    <constraint firstAttribute="bottom" secondItem="kU7-Yx-wP8" secondAttribute="bottom" constant="8" id="VR7-yN-tzv"/>
                                 </constraints>
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="x64-rP-giK">
-                                <rect key="frame" x="24" y="215" width="327" height="87"/>
+                                <rect key="frame" x="24" y="189" width="327" height="61"/>
                                 <subviews>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="symptomes" translatesAutoresizingMaskIntoConstraints="NO" id="Wfe-e8-hkD">
-                                        <rect key="frame" x="16" y="16" width="55" height="55"/>
+                                        <rect key="frame" x="8" y="8" width="45" height="45"/>
                                         <constraints>
-                                            <constraint firstAttribute="height" constant="55" id="9ey-U5-9PY"/>
-                                            <constraint firstAttribute="width" constant="55" id="UTI-WJ-GTf"/>
+                                            <constraint firstAttribute="height" constant="45" id="9ey-U5-9PY"/>
+                                            <constraint firstAttribute="width" constant="45" id="UTI-WJ-GTf"/>
                                         </constraints>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Symptómy" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="15" translatesAutoresizingMaskIntoConstraints="NO" id="tcU-3o-2Cy">
-                                        <rect key="frame" x="87" y="29.666666666666657" width="224" height="28"/>
+                                        <rect key="frame" x="69" y="16.666666666666657" width="242" height="28"/>
                                         <fontDescription key="fontDescription" name="Poppins-Light" family="Poppins" pointSize="20"/>
                                         <color key="textColor" red="0.23529411759999999" green="0.32156862749999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <nil key="highlightedColor"/>
                                     </label>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arrow" translatesAutoresizingMaskIntoConstraints="NO" id="dWa-BF-rqd">
+                                        <rect key="frame" x="295" y="22.666666666666657" width="16" height="16"/>
+                                        <color key="tintColor" red="0.31372549020000001" green="0.34509803919999998" blue="0.97647058819999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="16" id="DDQ-re-jvd"/>
+                                            <constraint firstAttribute="height" constant="16" id="IJK-17-CyA"/>
+                                        </constraints>
+                                    </imageView>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dVu-F7-NSJ">
-                                        <rect key="frame" x="0.0" y="0.0" width="327" height="87"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="327" height="61"/>
                                         <connections>
                                             <segue destination="pNx-Fw-cfn" kind="show" id="1Dz-aU-lez"/>
                                         </connections>
@@ -2928,11 +2892,13 @@ Vďaka nemu Vás môžu zdravotníci osloviť, ak zistia, že ste mohli byť v k
                                 </subviews>
                                 <color key="backgroundColor" red="0.92156862750000001" green="0.94117647059999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <constraints>
-                                    <constraint firstItem="Wfe-e8-hkD" firstAttribute="leading" secondItem="x64-rP-giK" secondAttribute="leading" constant="16" id="4St-Kj-BcX"/>
-                                    <constraint firstItem="Wfe-e8-hkD" firstAttribute="top" secondItem="x64-rP-giK" secondAttribute="top" constant="16" id="IJW-P2-n75"/>
+                                    <constraint firstItem="Wfe-e8-hkD" firstAttribute="leading" secondItem="x64-rP-giK" secondAttribute="leading" constant="8" id="4St-Kj-BcX"/>
+                                    <constraint firstItem="Wfe-e8-hkD" firstAttribute="top" secondItem="x64-rP-giK" secondAttribute="top" constant="8" id="IJW-P2-n75"/>
                                     <constraint firstItem="dVu-F7-NSJ" firstAttribute="top" secondItem="x64-rP-giK" secondAttribute="top" id="TG5-dZ-8z2"/>
+                                    <constraint firstAttribute="trailing" secondItem="dWa-BF-rqd" secondAttribute="trailing" constant="16" id="bzJ-mN-nht"/>
                                     <constraint firstItem="tcU-3o-2Cy" firstAttribute="leading" secondItem="Wfe-e8-hkD" secondAttribute="trailing" constant="16" id="dwB-fm-Ml7"/>
-                                    <constraint firstAttribute="bottom" secondItem="Wfe-e8-hkD" secondAttribute="bottom" constant="16" id="f3I-iq-6lE"/>
+                                    <constraint firstAttribute="bottom" secondItem="Wfe-e8-hkD" secondAttribute="bottom" constant="8" id="f3I-iq-6lE"/>
+                                    <constraint firstItem="dWa-BF-rqd" firstAttribute="centerY" secondItem="x64-rP-giK" secondAttribute="centerY" id="jhq-Bq-6mH"/>
                                     <constraint firstAttribute="trailing" secondItem="dVu-F7-NSJ" secondAttribute="trailing" id="l3J-Qn-GJY"/>
                                     <constraint firstAttribute="bottom" secondItem="dVu-F7-NSJ" secondAttribute="bottom" id="pDI-YO-aWs"/>
                                     <constraint firstAttribute="trailing" secondItem="tcU-3o-2Cy" secondAttribute="trailing" constant="16" id="xhV-Ag-cRe"/>
@@ -2949,6 +2915,53 @@ Vďaka nemu Vás môžu zdravotníci osloviť, ak zistia, že ste mohli byť v k
                                     <segue destination="cZg-eh-QnS" kind="presentation" id="a07-b8-cJs"/>
                                 </connections>
                             </button>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="MQg-bC-R4s">
+                                <rect key="frame" x="24" y="266" width="327" height="61"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="about-app-icon" translatesAutoresizingMaskIntoConstraints="NO" id="w7l-8t-Jac">
+                                        <rect key="frame" x="8" y="8" width="45" height="45"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="45" id="bEJ-S0-dfF"/>
+                                            <constraint firstAttribute="width" constant="45" id="y03-3n-Owf"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="O aplikácií" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="15" translatesAutoresizingMaskIntoConstraints="NO" id="5Ka-ag-uTM">
+                                        <rect key="frame" x="69" y="16.666666666666686" width="218" height="28"/>
+                                        <fontDescription key="fontDescription" name="Poppins-Light" family="Poppins" pointSize="20"/>
+                                        <color key="textColor" red="0.23529411759999999" green="0.32156862749999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="arrow" translatesAutoresizingMaskIntoConstraints="NO" id="TAq-ed-23n">
+                                        <rect key="frame" x="295" y="22.666666666666686" width="16" height="16"/>
+                                        <color key="tintColor" red="0.31372549020000001" green="0.34509803919999998" blue="0.97647058819999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="16" id="3OI-M8-Q1z"/>
+                                            <constraint firstAttribute="width" constant="16" id="Q1P-id-0hV"/>
+                                        </constraints>
+                                    </imageView>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="d4I-m8-UsB">
+                                        <rect key="frame" x="0.0" y="0.0" width="327" height="61"/>
+                                        <connections>
+                                            <segue destination="Oql-Ag-hxX" kind="show" id="ERR-WN-dQI"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" red="0.92156862750000001" green="0.94117647059999998" blue="1" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <constraints>
+                                    <constraint firstItem="TAq-ed-23n" firstAttribute="leading" secondItem="5Ka-ag-uTM" secondAttribute="trailing" constant="8" id="3cK-9h-APv"/>
+                                    <constraint firstAttribute="bottom" secondItem="d4I-m8-UsB" secondAttribute="bottom" id="8X1-Tn-J6h"/>
+                                    <constraint firstAttribute="bottom" secondItem="w7l-8t-Jac" secondAttribute="bottom" constant="8" id="Bth-IA-maw"/>
+                                    <constraint firstAttribute="trailing" secondItem="TAq-ed-23n" secondAttribute="trailing" constant="16" id="Dmu-xR-FsK"/>
+                                    <constraint firstItem="TAq-ed-23n" firstAttribute="centerY" secondItem="MQg-bC-R4s" secondAttribute="centerY" id="EUO-X4-bqk"/>
+                                    <constraint firstItem="w7l-8t-Jac" firstAttribute="leading" secondItem="MQg-bC-R4s" secondAttribute="leading" constant="8" id="HJB-ws-1sp"/>
+                                    <constraint firstItem="d4I-m8-UsB" firstAttribute="leading" secondItem="MQg-bC-R4s" secondAttribute="leading" id="J3o-Ro-Ezw"/>
+                                    <constraint firstItem="5Ka-ag-uTM" firstAttribute="leading" secondItem="w7l-8t-Jac" secondAttribute="trailing" constant="16" id="Wrh-mZ-hLb"/>
+                                    <constraint firstItem="w7l-8t-Jac" firstAttribute="top" secondItem="MQg-bC-R4s" secondAttribute="top" constant="8" id="Z7B-bK-OHq"/>
+                                    <constraint firstItem="d4I-m8-UsB" firstAttribute="top" secondItem="MQg-bC-R4s" secondAttribute="top" id="g1A-qo-Eka"/>
+                                    <constraint firstAttribute="trailing" secondItem="d4I-m8-UsB" secondAttribute="trailing" id="sr1-KC-JM9"/>
+                                    <constraint firstItem="5Ka-ag-uTM" firstAttribute="centerY" secondItem="MQg-bC-R4s" secondAttribute="centerY" id="vvc-73-i0t"/>
+                                </constraints>
+                            </view>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
@@ -2957,21 +2970,25 @@ Vďaka nemu Vás môžu zdravotníci osloviť, ak zistia, že ste mohli byť v k
                             <constraint firstItem="e2L-wo-0Ch" firstAttribute="bottom" secondItem="cQm-zp-XgE" secondAttribute="bottom" constant="16" id="AUg-cf-EG2"/>
                             <constraint firstItem="cQm-zp-XgE" firstAttribute="centerX" secondItem="dx0-8q-lgw" secondAttribute="centerX" id="QI1-4P-ObV"/>
                             <constraint firstItem="nUB-Ue-JIL" firstAttribute="top" secondItem="e2L-wo-0Ch" secondAttribute="top" constant="24" id="WSq-UK-zVK"/>
+                            <constraint firstItem="MQg-bC-R4s" firstAttribute="top" secondItem="x64-rP-giK" secondAttribute="bottom" constant="16" id="Wfq-8L-zK0"/>
+                            <constraint firstItem="MQg-bC-R4s" firstAttribute="leading" secondItem="e2L-wo-0Ch" secondAttribute="leading" constant="24" id="Yt6-0c-3Ll"/>
                             <constraint firstItem="x64-rP-giK" firstAttribute="leading" secondItem="e2L-wo-0Ch" secondAttribute="leading" constant="24" id="c9Z-sT-vnm"/>
                             <constraint firstItem="nUB-Ue-JIL" firstAttribute="leading" secondItem="e2L-wo-0Ch" secondAttribute="leading" constant="24" id="e7h-j2-C1u"/>
+                            <constraint firstItem="e2L-wo-0Ch" firstAttribute="trailing" secondItem="MQg-bC-R4s" secondAttribute="trailing" constant="24" id="kMc-vX-eI3"/>
                             <constraint firstItem="e2L-wo-0Ch" firstAttribute="trailing" secondItem="nUB-Ue-JIL" secondAttribute="trailing" constant="24" id="qWF-Bp-Itb"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="e2L-wo-0Ch"/>
                     </view>
                     <navigationItem key="navigationItem" id="M0i-zH-MoQ"/>
                     <connections>
+                        <outlet property="howItWorksView" destination="MQg-bC-R4s" id="WZf-Ce-RuM"/>
                         <outlet property="protectView" destination="nUB-Ue-JIL" id="Pt4-Cb-ykD"/>
                         <outlet property="symptomsView" destination="x64-rP-giK" id="rKN-Ce-5VH"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="mdt-IQ-j1z" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1180" y="41"/>
+            <point key="canvasLocation" x="1180" y="40.64039408866995"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="Gan-vj-kjL">
@@ -2998,11 +3015,11 @@ Vďaka nemu Vás môžu zdravotníci osloviť, ak zistia, že ste mohli byť v k
             <objects>
                 <viewController id="H3q-2s-Se9" customClass="SpreadMapViewController" customModule="Covid_19_SR" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Vqq-l1-noH">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="641"/>
+                        <rect key="frame" x="0.0" y="0.0" width="430" height="641"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" mapType="standard" pitchEnabled="NO" showsUserLocation="YES" showsBuildings="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qir-cs-EG3">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="641"/>
+                                <rect key="frame" x="0.0" y="0.0" width="430" height="641"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             </mapView>
                         </subviews>
@@ -3018,16 +3035,18 @@ Vďaka nemu Vás môžu zdravotníci osloviť, ak zistia, že ste mohli byť v k
         </scene>
     </scenes>
     <resources>
-        <image name="chevron.right" catalog="system" width="48" height="64"/>
+        <image name="ID" width="26" height="27"/>
+        <image name="ID-character" width="106" height="117"/>
+        <image name="about-app-icon" width="52" height="52"/>
+        <image name="arrow" width="11" height="19"/>
         <image name="edit-icon" width="20" height="20"/>
-        <image name="house" catalog="system" width="64" height="54"/>
+        <image name="home" width="26" height="25"/>
         <image name="howtoprotect" width="77" height="77"/>
-        <image name="info.circle" catalog="system" width="64" height="60"/>
-        <image name="map" catalog="system" width="64" height="56"/>
+        <image name="info-icon" width="24" height="24"/>
         <image name="map-bg" width="270" height="132"/>
+        <image name="map-icon" width="26" height="25"/>
         <image name="mvsr" width="256" height="64"/>
         <image name="mzsr" width="336.5" height="88"/>
-        <image name="person" catalog="system" width="64" height="58"/>
         <image name="pin" width="32" height="32"/>
         <image name="pin-select-location" width="55" height="57"/>
         <image name="prevention01" width="77" height="77"/>
@@ -3035,7 +3054,7 @@ Vďaka nemu Vás môžu zdravotníci osloviť, ak zistia, že ste mohli byť v k
         <image name="symptomes" width="77" height="77"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="7KV-ak-2k6"/>
-        <segue reference="LCD-tO-Hlk"/>
+        <segue reference="03C-rP-IWv"/>
+        <segue reference="a07-b8-cJs"/>
     </inferredMetricsTieBreakers>
 </document>

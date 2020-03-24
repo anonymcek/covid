@@ -37,7 +37,7 @@ class StatsViewController: UIViewController {
                     if let data = data {
                         let result = try decoder.decode(StatsResponseData.self, from: data)
                         DispatchQueue.main.async {
-                            self?.positiveCasesLabel.text = result.totalCases
+                            self?.positiveCasesLabel.text = String(Int(result.totalCases))
                             self?.healedCasesLabel.text = String(Int(result.totalRecovered))
                             self?.deathsLabel.text = String(Int(result.totalDeaths))
                         }

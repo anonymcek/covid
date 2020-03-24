@@ -48,6 +48,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 LocationTracker.shared.startLocationTracking()
             }
             completionHandler(.newData)
+            return
         }
         completionHandler(.noData)
     }
@@ -74,6 +75,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             
             window?.rootViewController?.present(alertController, animated: true, completion: nil)
         }
+        completionHandler(.noData)
     }
 
     func applicationDidBecomeActive(_ application: UIApplication) {
@@ -124,9 +126,12 @@ extension AppDelegate {
         guard let remoteConfig = remoteConfig else { return }
         
         let defaults: [String: NSObject] = ["quarantineDuration": NSString(string: "14"),
-                                            "desiredPositionAccuracy": NSString(string: "100"),
+                                            "desiredPositionAccuracy": NSNumber(value: 100),
                                             "quarantineLeftMessage": NSString(string: "Opustili ste zónu domácej karatnény. Pre ochranu Vášho zdravia a zdravia Vašich blízkych, Vás žiadame o striktné dodržiavanie nariadenej karantény."),
                                             "batchSendingFrequency": NSNumber(value: 60),
+                                            "quarantineLocationPeriodMinutes": NSNumber(value: 5),
+                                            "minConnectionDuration": NSNumber(value: 300),
+                                            "mapStatsUrl": NSString(string: "https://portal.minv.sk/gis/rest/services/PROD/ESISPZ_GIS_PORTAL_CovidPublic/MapServer/4/query?where=POTVRDENI%20%3E%200&f=json&outFields=IDN3%2C%20NM3%2C%20IDN2%2C%20NM2%2C%20POTVRDENI%2C%20VYLIECENI%2C%20MRTVI%2C%20AKTIVNI%2C%20CAKAJUCI%2C%20OTESTOVANI_NEGATIVNI%2C%20DATUM_PLATNOST&returnGeometry=false&orderByFields=POTVRDENI%20DESC"),
                                             "apiHost": NSString(string: "https://covid-gateway.azurewebsites.net"),
                                             "statsUrl": NSString(string: "https://corona-stats-sk.herokuapp.com/combined")]
         

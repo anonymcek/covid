@@ -20,7 +20,7 @@ struct QuarantineStatusResponseData: Codable {
 }
 
 struct StatsResponseData: Codable {
-    let totalCases: String
+    let totalCases: Double
     let totalDeaths: Double
     let totalRecovered: Double
 }

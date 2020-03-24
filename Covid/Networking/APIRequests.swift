@@ -62,6 +62,18 @@ struct QuarantineRequestData: Codable {
     }
 }
 
+struct MFATokenPhoneRequestData: Codable {
+    let deviceId: String
+    let profileId: Int
+    let mfaToken: String
+    
+    init(deviceId: String = Defaults.deviceId, profileId: Int? = Defaults.profileId, mfaToken: String? = Defaults.mfaToken) {
+        self.deviceId = deviceId
+        self.profileId = profileId ?? 0
+        self.mfaToken = mfaToken ?? ""
+    }
+}
+
 struct AreaExitRequestData: Codable {
     let deviceId: String
     let profileId: Int
