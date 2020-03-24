@@ -30,4 +30,6 @@ extension DefaultsKeys {
     
     var lastLocationUpdate: DefaultsKey<Double?> { return .init("lastLocationUpdate") }
     var lastConnectionsUpdate: DefaultsKey<Double?> { return .init("lastConnectionsUpdate") }
+    
+    var lastQuarantineUpdate: DefaultsKey<Double?> { return .init("lastQuarantineUpdate") }
 }

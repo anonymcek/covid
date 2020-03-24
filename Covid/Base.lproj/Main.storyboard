@@ -2331,7 +2331,7 @@ Vďaka nemu Vás môžu zdravotníci osloviť, ak zistia, že ste mohli byť v k
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="hgO-J6-TO3">
                                 <rect key="frame" x="16" y="88" width="343" height="641"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
-                                <mutableString key="text">Aplikácia Covid-19 bola vytvorená slovenskými IT dobrovoľníkmi v rekordne krátkom čase, aby pomohli s bojom proti šíreniu pandémie. Bola odovzdaná všetkým štátom zdarma vrátane Slovenska, aby pomohla zdravotníckym organizáciam prekonať nákazu Covid-19 rýchlejšie. Je vyvinutá tak, aby aj v budúcnosti, pri vzniku akejkoľvek pandémie, mohla byť okamžite nasadená a spomaliť šírenie nákazy. Aplikácia bude vylepšovaná každým dňom a jej tvorcovia budú náklady s jej ďalším vývojom hradiť sami. Jej kód a know-how má slúžiť všetkým ľudom sveta a nesmie byť majetkom žiadnej organizácie.
+                                <mutableString key="text">Aplikácia Covid-19 bola vytvorená slovenskými dobrovoľníkmi v rekordne krátkom čase, aby pomohli s bojom proti šíreniu pandémie. Bola odovzdaná všetkým štátom zdarma vrátane Slovenska, aby pomohla zdravotníckym organizáciám prekonať nákazu Covid-19 rýchlejšie. Je vyvinutá tak, aby aj v budúcnosti, pri vzniku akejkoľvek pandémie, mohla byť okamžite nasadená a spomaliť šírenie nákazy. Aplikácia bude vylepšovaná každým dňom a jej tvorcovia budú náklady s jej ďalším vývojom hradiť sami. Jej kód a know-how má slúžiť všetkým ľudom sveta a nesmie byť majetkom žiadnej organizácie.
 
 Jednou z najzákernejších prejavov Covid-19 je jej inkubačná doba, kedy pacient chorobu šíri až 14-dní bez jej viditeľných symptómov. Tým sa vírus šíri rýchlejšie ako obyčajná chrípka a ťažké stavy tak prehltia zdravotnícky systém, ktorý v žiadnej krajine nebol pripravený na takýto nárast nákazy. Cieľom aplikácie je výrazne spomaliť nástup a rýchlejšie otestovať potenciálne nakazených ľudí a tým predísť šíreniu choroby bez ich vedomia. Tým ochránime infikované osoby, ich blízkych a celý zdravotnícky systém, ktorému zostane kapacita pred exponenciálnym nárastom prípadov. 
 
@@ -2347,7 +2347,7 @@ V dnešnej dobe fungujú zdravotníci pýtaním sa, s kým sa človek stretol, a
 
 Neoddeliteľnou súčasťou prekonania nákazy Covid-19 je aj izolácia chorých od ostatnej populácie. Na tento účel funguje karanténa. V prípade, že človek prišiel zo zahraničia, alebo bol potenciálne vystavený infekcii, je vyhláškou prikázané zostať v karanténe po celú dobu inkubačnej doby. Pri tejto chorobe 14-dní. Mobilný operátori majú informácie o ľuďoch, ktorí prišli zo zahraničia a takýmto ľuďom by mala prísť SMS, aby zostali v karanténe. Následne človek v aplikácii oznámi, že mu bola nariadená karanténa a označí si miesto, v ktorom sa bude zdržiavať nasledujúcich 14-dní. Zároveň oznámi dátum, od ktorého mu bola karanténa nariadená. Po tomto úkone ho aplikácia bude varovať pri každom porušení karantény. Akonáhle je človek mimo karantény dlhšie ako určitý čas, aplikácia ho upozorní, aby sa vrátil do karantény. Táto funkcionalita sa snaží predísť porušovaniu karantény od ľudí, ktorým bola nariadená.
 
-Aplikácia zároveň zobrazuje mapu a najnovšie informácie o nákazách v jednotlivých okresoch na Slovensku. Jej účelom nieje identifikovať chorých, ani nijako týmito informáciami nedisponuje. Mapa zobrazuje len štatistický počet zaznamenaných ľudí s ochorením na Covid-19 v danom okrese. 
+Aplikácia zároveň zobrazuje mapu a najnovšie informácie o nákazách v jednotlivých okresoch na Slovensku. Jej účelom nie je identifikovať chorých, ani nijako týmito informáciami nedisponuje. Mapa zobrazuje len štatistický počet zaznamenaných ľudí s ochorením na Covid-19 v danom okrese. 
 
 Zároveň aplikácia disponuje štatistickými informáciami o počte nakazených, vyliečených a počte úmrtí na území Slovenskej republiky. Obsahuje aj dôležité informácie ako sa chrániť, ako rozpoznať symptómy a zobrazuje rýchlu infolinku.
 
@@ -2357,7 +2357,12 @@ Nikdy nebolo dôležitejšie neochorieť, aby sme zachránili druhých, tak ako 
 
 Veľa z nás nákazu zvládne svojou imunitou. Sú ale takí, ktorí majú iné vážne ochorenia, či mladí, či starí a budú potrebovať pomoc zdravotníctva. 
 
-Preto je nesmierne dôležité prejaviť ľudskosť mladých voči starým, zdravých voči chorým a poraziť Covid-19, spoločne.</mutableString>
+Preto je nesmierne dôležité prejaviť ľudskosť mladých voči starým, zdravých voči chorým a poraziť Covid-19, spoločne.
+
+
+Veľmi pekne ďakujeme za podporu všetkým, ktorí sa svojimi radami, prácou vo dne v noci a svojou nezištnou pomocou pričinili ku vzniku tohoto projektu a to najmä: Marek Gogoľ, Juraj Karovič, MUDr. Andrej Thurzo PhD., MPH, MHA, kolektív IT dobrovoľníkov okolo Sygic, Turn.sk, DigitalLegal, Jozef Benko
+
+Širší odborný tím spoluautorov:  doc. JUDr. MUDr. Peter Kováč, PhD. et. PhD, MUDr. Vanda Martišková, MUDr. Karolína Bašová, MDDr. Peter Czakó, MUDr. Martin Čaprnda, PhD., prof. MUDr. Dušan Meško, PhD., MUDr. Peter Herman, MUDr. Gabriela Ďuricová, PhD., MUDr. Igor Krupa, MUDr. Gabriela Ďuricová, PhD., MUDr. Alžbeta Reviczká, MUDr. Andrej Daňo, MUDr. Veronika Pružincová, Juraj Novosad, Nicolas Hason, Maroš Lukáč</mutableString>
                                 <color key="textColor" red="0.22352941179999999" green="0.22352941179999999" blue="0.22352941179999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" name="Poppins-Regular" family="Poppins" pointSize="17"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>

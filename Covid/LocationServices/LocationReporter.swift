@@ -19,7 +19,7 @@ class LocationReporter {
     
     func didRangeBeacons(_ beacons: [CLBeacon], at location: CLLocation?) {
         let timestamp = Int(Date().timeIntervalSince1970)
-        let connections = beacons.map { (beacon) -> Connection in
+        let connections = beacons.compactMap { (beacon) -> Connection in
             let beaconId = BeaconId(major: beacon.major.uint16Value, minor: beacon.minor.uint16Value)
             let approxLatitude = Double(round(10000 * (location?.coordinate.latitude ?? 0)) / 10000)
             let approxLongitude = Double(round(10000 * (location?.coordinate.longitude ?? 0)) / 10000)
@@ -57,11 +57,19 @@ class LocationReporter {
     func reportLocation(_ location: CLLocation) {
         guard let quarantineLatitude = Defaults.quarantineLatitude, let quarantineLongitude = Defaults.quarantineLongitude, Defaults.quarantineActive else { return }
         
+        let quarantineLocationPeriodMinutes = (UIApplication.shared.delegate as? AppDelegate)?.remoteConfig?["quarantineLocationPeriodMinutes"].numberValue?.intValue ?? 5
+        let currentTimestamp = Date().timeIntervalSince1970
+        let lastTimestamp = Defaults.lastQuarantineUpdate ?? 0
+        
+        guard currentTimestamp - lastTimestamp > Double(quarantineLocationPeriodMinutes * 60) else { return }
+        
         let quarantineLocation = CLLocation(latitude: quarantineLatitude, longitude: quarantineLongitude)
         //TODO: nicer
         let distance = (UIApplication.shared.delegate as? AppDelegate)?.remoteConfig?["desiredPositionAccuracy"].numberValue?.doubleValue ?? 100.0
         let treshold = max(location.horizontalAccuracy * 2, distance)
         let message = (UIApplication.shared.delegate as? AppDelegate)?.remoteConfig?["quarantineLeftMessage"].stringValue ?? "Opustili ste zónu domácej karatnény. Pre ochranu Vášho zdravia a zdravia Vašich blízkych, Vás žiadame o striktné dodržiavanie nariadenej karantény."
+        
+         Defaults.lastQuarantineUpdate = currentTimestamp
         
         if quarantineLocation.distance(from: location) > treshold {
             if UIApplication.shared.applicationState == .active {
@@ -105,9 +113,9 @@ class LocationReporter {
         let batchTime = (UIApplication.shared.delegate as? AppDelegate)?.remoteConfig?["batchSendingFrequency"].numberValue?.intValue ?? 60
         
         let currentTimestamp = Date().timeIntervalSince1970
-        let lastTimestamp = Defaults.lastLocationUpdate ?? Date().timeIntervalSince1970
+        let lastTimestamp = Defaults.lastLocationUpdate ?? 0
         
-        if Defaults.lastLocationUpdate == nil || currentTimestamp - lastTimestamp > Double(batchTime * 60) {
+        if currentTimestamp - lastTimestamp > Double(batchTime * 60) {
             guard let locations = try? Disk.retrieve("locations.json", from: .applicationSupport, as: [Location].self) else { return }
             
             networkService.requestLocations(locationsRequestData: LocationsRequestData(locations: locations)) { (result) in

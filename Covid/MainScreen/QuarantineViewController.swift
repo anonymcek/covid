@@ -62,13 +62,15 @@ extension QuarantineViewController {
     
     private func updateView() {
         if let startDate = Defaults.quarantineStart, let endDate = Defaults.quarantineEnd {
-            let calendar = Calendar.current
-            let date2 = calendar.startOfDay(for: endDate)
-
-            let components = calendar.dateComponents([.day], from: startDate, to: date2)
-            if let days = components.day {
-                quarantineUntilLabel.text = QuarantineViewController.daysToString(days)
-            }
+//            let calendar = Calendar.current
+//            let date2 = calendar.startOfDay(for: endDate)
+//
+//            let components = calendar.dateComponents([.day], from: startDate, to: date2)
+//            if let days = components.day {
+//                quarantineUntilLabel.text = QuarantineViewController.daysToString(days)
+//            }
+            let days = Int(abs(((endDate.timeIntervalSince1970 - startDate.timeIntervalSince1970) / 86400).rounded(.awayFromZero)))
+            quarantineUntilLabel.text = QuarantineViewController.daysToString(days)
         }
         
         addressLabel.text = "\(Defaults.quarantineAddress ?? "")\n\(Defaults.quarantineCity ?? "")"
