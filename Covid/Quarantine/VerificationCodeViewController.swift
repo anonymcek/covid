@@ -1,5 +1,5 @@
 /*-
-* Copyright (c) 2020 [copyright holders]
+* Copyright (c) 2020 Sygic
 *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
 * of this software and associated documentation files (the "Software"), to deal
@@ -41,7 +41,7 @@ class VerificationCodeViewController: UIViewController {
         
         updateUser()
         
-        if #available(iOS 12.0, *) {
+        if #available(iOS 13.0, *) {
             activationCodeTextField.font = UIFont.monospacedSystemFont(ofSize: 40, weight: .medium)
         }
     }
